@@ -1,0 +1,8 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>V U This — articles and screen ideas</title><link>https://vuthis.github.io/</link><description>Business use cases, comparisons and practical resources for TVs, projectors and shared screens.</description><language>en</language><atom:link href="https://vuthis.github.io/feed.xml" rel="self" type="application/rss+xml" />
+{% assign articles = site.pages | where: "hub_page", true | sort: "date" | reverse %}{% for item in articles limit:30 %}<item><title>{{ item.title | xml_escape }}</title><link>{{ item.url | absolute_url | xml_escape }}</link><guid isPermaLink="true">{{ item.url | absolute_url | xml_escape }}</guid><pubDate>{{ item.date | date_to_rfc822 }}</pubDate><description>{{ item.description | xml_escape }}</description></item>{% endfor %}
+</channel></rss>
