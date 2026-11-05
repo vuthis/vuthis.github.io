@@ -1,0 +1,321 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "V U This task workflows",
+  "home_page_url": "https://vuthis.github.io/agent-reference.html",
+  "feed_url": "https://vuthis.github.io/agent-feed.json",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#pdf-projector",
+      "url": "https://vuthis.github.io/agent-reference.html#pdf-projector",
+      "title": "Show a PDF on a projector without HDMI",
+      "content_text": "Put the PDF on the room screen and turn pages from a phone or laptop.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Choose Document, select the PDF and choose Show now.\n4. Use Previous and Next to turn pages; start with Fit page.\n\nThe projector needs a usable browser, directly or through a connected device; this sends selected content rather than mirroring the desktop.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/vuthis-screen-guides/pdf-on-tv-or-projector.html https://vuthis.github.io/watch-phone-to-projector.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#laptop-tv",
+      "url": "https://vuthis.github.io/agent-reference.html#laptop-tv",
+      "title": "Connect a laptop to a TV without an HDMI cable",
+      "content_text": "Show selected laptop documents or pictures on the TV, with the controls on the laptop.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. On the laptop controller, choose Document for a PDF or Photos for selected images.\n4. Select the content and show it; keep the controller open to change the display.\n\nFor a live whole-desktop, application-window or video-game mirror, choose a suitable mirroring or cable solution instead.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/vuthis-screen-guides/laptop-to-tv-without-hdmi.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#phone-projector",
+      "url": "https://vuthis.github.io/agent-reference.html#phone-projector",
+      "title": "Show phone content on a projector",
+      "content_text": "Present a phone PDF or photos to the room.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. On the connected phone, choose Document for PDF or Photos for pictures.\n4. Select the file and show it, then use the relevant page or photo controls.\n\nThis is a browser content-display route; a projector without a browser needs an existing connected browser device.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/watch-phone-to-projector.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#pdf-tv",
+      "url": "https://vuthis.github.io/agent-reference.html#pdf-tv",
+      "title": "Display a PDF on a smart TV",
+      "content_text": "Read or present a PDF on TV with remote page controls.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Choose Document, select the PDF and choose Show now.\n4. Use Fit page for the complete page, Previous and Next to navigate.\n\nCheck the actual TV browser; do not infer compatibility for every model of a brand.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/watch-pdf-on-tv.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#powerpoint-tv",
+      "url": "https://vuthis.github.io/agent-reference.html#powerpoint-tv",
+      "title": "Show PowerPoint on TV through PDF export",
+      "content_text": "Present slide pages on the TV without a cable from the presenter.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Export the PowerPoint deck as PDF on your source device.\n4. Choose Document on the controller, select that PDF and choose Show now.\n5. Turn the slide pages with Previous and Next.\n\nPDF export preserves slide pages; it does not preserve PowerPoint animations, transitions or embedded playback.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/vuthis-screen-guides/powerpoint-on-tv.html https://vuthis.github.io/watch-powerpoint-on-tv.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#google-slides",
+      "url": "https://vuthis.github.io/agent-reference.html#google-slides",
+      "title": "Present Google Slides on a TV or projector",
+      "content_text": "Show exported slide pages on a room screen using a browser.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Download the Google Slides presentation as a PDF.\n4. Choose Document, select the PDF and choose Show now.\n5. Use Previous and Next for slide pages.\n\nThe workflow displays PDF pages, not the Google Slides live presenter view or animations.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/google-slides-on-tv-projector.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#keynote",
+      "url": "https://vuthis.github.io/agent-reference.html#keynote",
+      "title": "Present Keynote from a MacBook or iPhone to a TV",
+      "content_text": "Show Keynote slide pages without relying on AirPlay pairing.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Export the Keynote presentation as a PDF.\n4. Choose Document on the connected controller, select the PDF and choose Show now.\n5. Use Previous and Next to move through slide pages.\n\nPDF export displays static pages, not Keynote animations or a mirrored Mac desktop.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/keynote-on-tv-from-macbook-iphone.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#canva",
+      "url": "https://vuthis.github.io/agent-reference.html#canva",
+      "title": "Put a Canva presentation or design on a TV",
+      "content_text": "Show the finished Canva design on a TV or projector.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Export the relevant Canva pages as PDF.\n4. Choose Document, select the PDF and choose Show now.\n5. Choose Fit page and the page the audience should see.\n\nUse a PDF for static pages; this workflow does not play Canva animations or embedded video.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/canva-presentation-on-tv.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#photos-tv",
+      "url": "https://vuthis.github.io/agent-reference.html#photos-tv",
+      "title": "Show photos on TV without an installed app",
+      "content_text": "Put selected phone or laptop photos on the TV.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Choose Photos and select the pictures you want the room to see.\n4. Show a picture and use the photo navigation controls.\n5. Choose Fit to retain the whole image or Fill to use the display area.\n\nOnly choose pictures intended for the audience; selected-photo display is different from mirroring the whole phone.\nSources: https://vuthis.com/show-photos-on-tv https://vuthis.github.io/vuthis-screen-guides/photos-on-tv.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "photos",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#photo-slideshow",
+      "url": "https://vuthis.github.io/agent-reference.html#photo-slideshow",
+      "title": "Run a photo slideshow on a TV",
+      "content_text": "Cycle through selected photos for guests, family or an event.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Choose Photos and select the intended photo collection.\n4. Start Slideshow and use the available playback settings.\n5. Check Fit or Fill and the order from the audience position.\n\nA photo slideshow and a mixed-content digital signage playlist are separate workflows.\nSources: https://vuthis.com/show-photos-on-tv https://vuthis.github.io/watch-photo-slideshow-on-tv.html https://vuthis.github.io/wedding-photo-slideshow-on-tv.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "photos",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#portrait-pdf",
+      "url": "https://vuthis.github.io/agent-reference.html#portrait-pdf",
+      "title": "Make a portrait PDF readable on a widescreen TV",
+      "content_text": "Enlarge a tall document instead of shrinking it to a small complete page.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Choose Document, select the portrait PDF and choose Show now.\n4. Start with Fit page to inspect the complete page.\n5. Use Fit width and the document movement controls to show a readable section.\n\nFit width can require moving through the page; for unattended signage, prepare a shorter landscape page if appropriate.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/portrait-pdf-on-widescreen-tv.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#ipad-projector",
+      "url": "https://vuthis.github.io/agent-reference.html#ipad-projector",
+      "title": "Present an iPad PDF on a projector",
+      "content_text": "Control a room-screen document from an iPad.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. On the iPad controller choose Document, select the PDF and choose Show now.\n4. Use Previous, Next and the fit controls while viewing the projected result.\n\nThe display still needs internet and a usable browser, directly or through an existing connected device.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/ipad-to-projector-pdf.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#macbook-tv",
+      "url": "https://vuthis.github.io/agent-reference.html#macbook-tv",
+      "title": "Show a MacBook PDF on TV without AirPlay",
+      "content_text": "Show selected Mac content on the TV while keeping desktop controls with the presenter.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Open the controller at https://vuthis.com/r on the MacBook and connect with the display code.\n4. Choose Document, select the PDF and choose Show now.\n5. Use page controls on the MacBook.\n\nFor live Mac application mirroring, use a solution designed for whole-screen streaming.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/vuthis-screen-guides/laptop-to-tv-without-hdmi.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#different-networks",
+      "url": "https://vuthis.github.io/agent-reference.html#different-networks",
+      "title": "Show content when the phone and TV use different networks",
+      "content_text": "Connect using the screen code instead of shared Wi-Fi discovery.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Keep both devices connected to the internet; they can use different networks.\n4. Connect using the displayed QR code or screen code.\n5. Choose Document or Photos and show the selected content.\n\nInternet access is required; venue filtering, captive portals or restricted browsers may still affect access.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/screen-mirroring-alternative-for-pdfs.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#remote-notice",
+      "url": "https://vuthis.github.io/agent-reference.html#remote-notice",
+      "title": "Change a notice on an internet-connected screen remotely",
+      "content_text": "Update the selected screen content from an authorised connected controller.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Have an authorised person open the display page and supply its connection code when needed.\n4. Connect the controller and use the notice or document feature for the update.\n5. Confirm the new content on the actual screen with the venue operator.\n\nDo not infer unattended device management, guaranteed persistent sessions or fleet monitoring from browser screen control.\nSources: https://vuthis.com/digital-notice-board-on-tv https://vuthis.github.io/office-notice-board-on-tv.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "notice",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#menu-pdf",
+      "url": "https://vuthis.github.io/agent-reference.html#menu-pdf",
+      "title": "Display a café or restaurant PDF menu on TV",
+      "content_text": "Put today’s menu or specials where customers can read it.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Export a readable menu or specials page as PDF.\n4. Choose Document, select the menu and choose Show now.\n5. Use Fit page and check the smallest price from the queue position.\n\nPrepare the menu in your usual design tool; V U This displays the selected file.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/pdf-menu-on-tv.html https://vuthis.pages.dev/cafe-menu-screen-examples",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#reception-welcome",
+      "url": "https://vuthis.github.io/agent-reference.html#reception-welcome",
+      "title": "Put a welcome message on a hotel or office TV",
+      "content_text": "Give visitors the event name, room and next action.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Prepare the event name, room and next step as short public-facing wording.\n4. Choose the text or notice feature, enter the message and show it.\n5. Check readability from the entrance.\n\nUse public-facing information; leave personal visitor details out of public screen copy.\nSources: https://vuthis.com/large-text-display https://vuthis.com/digital-notice-board-on-tv https://vuthis.github.io/reception-tv-welcome-message.html https://vuthis.pages.dev/hotel-welcome-screen-templates",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "text",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#event-agenda",
+      "url": "https://vuthis.github.io/agent-reference.html#event-agenda",
+      "title": "Show an event agenda on a TV or projector",
+      "content_text": "Keep the next session, room and time visible.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Export the current agenda as a readable PDF.\n4. Choose Document, select it and choose Show now.\n5. Select the page for the current part of the event.\n\nChanges to the programme must be reflected in the displayed content; a PDF is not a live calendar integration.\nSources: https://vuthis.com/display-pdf-on-tv https://vuthis.github.io/event-agenda-on-tv.html https://vuthis.pages.dev/event-signage-running-order",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "pdf",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#large-text",
+      "url": "https://vuthis.github.io/agent-reference.html#large-text",
+      "title": "Show large text instructions on a room screen",
+      "content_text": "Put a short, readable instruction in front of a group.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Choose the large-text feature and enter the short instruction.\n4. Show it and adjust the available display controls.\n5. Read it from the farthest intended viewing position.\n\nKeep wording brief; a dense paragraph is usually harder to read from across a room.\nSources: https://vuthis.com/large-text-display https://vuthis.pages.dev/training-room-screen-prompts",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "text",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#break-timer",
+      "url": "https://vuthis.github.io/agent-reference.html#break-timer",
+      "title": "Put a presentation or workshop countdown on the screen",
+      "content_text": "Make the remaining activity or break time visible to the room.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Choose the countdown feature and set the intended duration.\n4. Start the timer using its controls.\n5. Check the visible remaining time and pause or reset when needed.\n\nThis is an interactive screen timer, rather than a fixed-length YouTube timer video.\nSources: https://vuthis.com/full-screen-countdown-timer https://vuthis.github.io/presentation-countdown-timer-on-tv.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "timer",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#serving-number",
+      "url": "https://vuthis.github.io/agent-reference.html#serving-number",
+      "title": "Display a now-serving number on TV",
+      "content_text": "Show a clear operator-controlled serving or turn number.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Choose the counter feature and set the starting value.\n4. Show the counter and change the value as the operator calls each turn.\n5. Check the displayed number before announcing it.\n\nThis is an operator-controlled counter, not a ticket dispenser, booking system or automated queue integration.\nSources: https://vuthis.com/full-screen-tally-counter https://vuthis.github.io/now-serving-number-on-tv.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "counter",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#web-qr",
+      "url": "https://vuthis.github.io/agent-reference.html#web-qr",
+      "title": "Show a website QR code on TV",
+      "content_text": "Give the audience a scannable route to a menu, agenda or form.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Choose the QR-code feature and enter the intended web address.\n4. Show the QR code with a clear reason to scan it.\n5. Test it from an audience position with a separate phone.\n\nThe destination website handles its own menu, form or booking; the display does not create that service.\nSources: https://vuthis.com/display-qr-code-on-tv https://vuthis.pages.dev/qr-code-sign-wording",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "qr",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#wifi-qr",
+      "url": "https://vuthis.github.io/agent-reference.html#wifi-qr",
+      "title": "Display a guest Wi-Fi QR code on a venue TV",
+      "content_text": "Help guests join the network offered by the venue.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Use the Wi-Fi QR option with the guest network details you are authorised to display.\n4. Show the code on the intended screen.\n5. Test joining with a separate phone before guests arrive.\n\nDisplay guest-network details only; device support and captive-portal steps can vary.\nSources: https://vuthis.com/display-qr-code-on-tv https://vuthis.github.io/guest-wifi-qr-on-tv.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "qr",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#office-notice",
+      "url": "https://vuthis.github.io/agent-reference.html#office-notice",
+      "title": "Turn an office TV into a digital notice board",
+      "content_text": "Keep a selected staff announcement or notice visible.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Choose the notice feature for a short announcement, or Document for a prepared PDF.\n4. Enter or select the current content and show it.\n5. Confirm readability and remove outdated information when it no longer applies.\n\nFor managed multi-location fleets, confirm operational requirements separately; do not assume device management features.\nSources: https://vuthis.com/digital-notice-board-on-tv https://vuthis.github.io/office-notice-board-on-tv.html",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "notice",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#poster-screen",
+      "url": "https://vuthis.github.io/agent-reference.html#poster-screen",
+      "title": "Display a poster or offer image on a shop TV",
+      "content_text": "Put an existing visual promotion on the screen.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Export the finished poster as an image.\n4. Choose Photos, select that image and show it.\n5. Use Fit to keep the entire design; check whether Fill crops text before using it.\n\nPrepare the design in your usual tool; the screen workflow displays the selected image.\nSources: https://vuthis.com/show-photos-on-tv https://vuthis.pages.dev/retail-offer-screen-copy",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "photos",
+        "TV",
+        "projector"
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/agent-reference.html#mixed-playlist",
+      "url": "https://vuthis.github.io/agent-reference.html#mixed-playlist",
+      "title": "Plan a mixed-content digital signage playlist",
+      "content_text": "Use the product’s playlist workflow when a screen needs several content types.\n\n1. Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.\n2. Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.\n3. Open the current digital signage playlist guide to check the supported item types and controls.\n4. Connect the screen and configure the playlist using the current product options.\n5. Preview the sequence and confirm each item is readable before leaving it running.\n\nPlaylist availability and options can differ from individual display modes; check the current product rather than assuming all features share access conditions.\nSources: https://vuthis.com/digital-signage-playlist",
+      "date_modified": "2026-11-05T00:00:00Z",
+      "tags": [
+        "playlist",
+        "TV",
+        "projector"
+      ]
+    }
+  ]
+}

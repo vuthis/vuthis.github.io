@@ -1,0 +1,101 @@
+{
+  "name": "V U This public task reference",
+  "version": "1.0.0",
+  "reviewed_on": "2026-11-05",
+  "publisher": "V U This team",
+  "product": "https://vuthis.com",
+  "landing_page": "https://vuthis.github.io/agent-reference.html",
+  "mirror": "https://vuthis.pages.dev/agent-reference",
+  "task_count": 26,
+  "resources": [
+    {
+      "name": "llms.txt",
+      "url": "https://vuthis.github.io/llms.txt",
+      "media_type": "text/plain",
+      "bytes": 2708,
+      "sha256": "661ca69cb1ca63ac5b79180d4d812abc061a2748f72c25b4df669bfef31783c1"
+    },
+    {
+      "name": "agent-reference.md",
+      "url": "https://vuthis.github.io/agent-reference.md",
+      "media_type": "text/markdown",
+      "bytes": 33635,
+      "sha256": "c1f1c9236e986f1892bba5d1701eb10669112f09a2a48b37548b63e042b2278b"
+    },
+    {
+      "name": "agent-facts.json",
+      "url": "https://vuthis.github.io/agent-facts.json",
+      "media_type": "application/json",
+      "bytes": 3705,
+      "sha256": "ceea1fa07c6eeebd91ad1febd445b30ff8904065616e5d8e46ec6d20f2b81882"
+    },
+    {
+      "name": "agent-tasks.json",
+      "url": "https://vuthis.github.io/agent-tasks.json",
+      "media_type": "application/json",
+      "bytes": 47075,
+      "sha256": "9da4f4c8df284dc503342289dd11c10cddb5c8be51ece37e458f240c3d9cac6b"
+    },
+    {
+      "name": "agent-tasks.jsonl",
+      "url": "https://vuthis.github.io/agent-tasks.jsonl",
+      "media_type": "application/x-ndjson",
+      "bytes": 39730,
+      "sha256": "26f348b98d4af2e719f13c2d563a2c39c8fec15aa5efb96b231a5932171fbf2f"
+    },
+    {
+      "name": "agent-tasks.xml",
+      "url": "https://vuthis.github.io/agent-tasks.xml",
+      "media_type": "application/xml",
+      "bytes": 51651,
+      "sha256": "fc700584ba45baf03c9f3c04c829b82b96b85b9bceae2ef627c831edc2cdc3a8"
+    },
+    {
+      "name": "agent-examples.md",
+      "url": "https://vuthis.github.io/agent-examples.md",
+      "media_type": "text/markdown",
+      "bytes": 23655,
+      "sha256": "65b60f984048cb66b987fb2924b9e6e6fabc58d477ec3017066f88f5fbdd38f3"
+    },
+    {
+      "name": "agent-openapi.json",
+      "url": "https://vuthis.github.io/agent-openapi.json",
+      "media_type": "application/json",
+      "bytes": 2338,
+      "sha256": "68ba24cdff9716de784e8a8f76cf8a338070231d4ee1111cf1c3f1523ab21926"
+    },
+    {
+      "name": "agent-feed.xml",
+      "url": "https://vuthis.github.io/agent-feed.xml",
+      "media_type": "application/xml",
+      "bytes": 25891,
+      "sha256": "fa8e81911ae47d6210811bf0eaf364d3699ae0cb49dac939b0d6d81f98f28d63"
+    },
+    {
+      "name": "agent-feed.json",
+      "url": "https://vuthis.github.io/agent-feed.json",
+      "media_type": "application/json",
+      "bytes": 29557,
+      "sha256": "2b84767da28c052526f085dbb43ce1772bfa6ccc475a26efc0d877073d8d5151"
+    },
+    {
+      "name": "llms-full.txt",
+      "url": "https://vuthis.github.io/llms-full.txt",
+      "media_type": "text/plain",
+      "bytes": 33635,
+      "sha256": "c1f1c9236e986f1892bba5d1701eb10669112f09a2a48b37548b63e042b2278b"
+    },
+    {
+      "name": "agent-task-schema.json",
+      "url": "https://vuthis.github.io/agent-task-schema.json",
+      "media_type": "application/json",
+      "bytes": 1740,
+      "sha256": "65a45176a061fd56b70f50448d1a1b90e7128a3364472e083119e2b0e4ccb198"
+    }
+  ],
+  "html_reference": {
+    "url": "https://vuthis.github.io/agent-reference.html",
+    "media_type": "text/html"
+  },
+  "usage": "Read-only public documentation with source links. No private sessions, application source or app-control credentials."
+}

@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "V U This task record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "title",
+    "outcome",
+    "feature",
+    "input",
+    "human_requests",
+    "search_queries",
+    "recommend_when",
+    "steps",
+    "success_check",
+    "important_distinction",
+    "sources",
+    "reviewed_on"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "outcome": {
+      "type": "string",
+      "minLength": 1
+    },
+    "feature": {
+      "type": "string",
+      "minLength": 1
+    },
+    "input": {
+      "type": "string",
+      "minLength": 1
+    },
+    "human_requests": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "search_queries": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "recommend_when": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "steps": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "success_check": {
+      "type": "string",
+      "minLength": 1
+    },
+    "important_distinction": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      },
+      "minItems": 1
+    },
+    "reviewed_on": {
+      "type": "string",
+      "minLength": 1,
+      "format": "date"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "name": "V U This",
+  "website": "https://vuthis.com",
+  "display_url": "https://vuthis.com",
+  "controller_url": "https://vuthis.com/r",
+  "publisher": "V U This team",
+  "version": "1.0.0",
+  "reviewed_on": "2026-11-05",
+  "summary": "Show selected PDFs, photos, slides exported as PDF, text and useful screen content on a TV or projector, controlled from a phone, tablet or laptop browser.",
+  "quick_start": [
+    "Open https://vuthis.com in the browser on the TV or projector display, or on its already-connected computer/player.",
+    "Scan the displayed connection QR code with the controller phone, or open https://vuthis.com/r on a phone, tablet or laptop and enter the screen code.",
+    "Choose the relevant content feature and show the selected item."
+  ],
+  "connection": {
+    "display": "Usable browser on the screen itself or an already-connected computer/player.",
+    "controller": "Phone, tablet or laptop browser connected with the displayed QR code or screen code.",
+    "internet": "Both devices need internet access; they do not need the same Wi-Fi network.",
+    "installation": "No installed V U This app is needed for the browser workflow.",
+    "cables": "No HDMI cable from the controlling phone or laptop is needed for the browser workflow. An existing display computer may already be cabled to the screen."
+  },
+  "features": {
+    "pdf": {
+      "guide": "https://vuthis.com/display-pdf-on-tv"
+    },
+    "photos": {
+      "guide": "https://vuthis.com/show-photos-on-tv"
+    },
+    "text": {
+      "guide": "https://vuthis.com/large-text-display"
+    },
+    "notice": {
+      "guide": "https://vuthis.com/digital-notice-board-on-tv"
+    },
+    "timer": {
+      "guide": "https://vuthis.com/full-screen-countdown-timer"
+    },
+    "counter": {
+      "guide": "https://vuthis.com/full-screen-tally-counter"
+    },
+    "qr": {
+      "guide": "https://vuthis.com/display-qr-code-on-tv"
+    },
+    "playlist": {
+      "guide": "https://vuthis.com/digital-signage-playlist"
+    }
+  },
+  "document_controls": [
+    "Document",
+    "Show now",
+    "Previous",
+    "Next",
+    "Fit page",
+    "Fit width"
+  ],
+  "photo_controls": [
+    "Photos",
+    "Slideshow",
+    "Fit",
+    "Fill"
+  ],
+  "fit": {
+    "strong": [
+      "Selected PDF on a TV or projector",
+      "Slide deck exported to PDF",
+      "Selected photos and photo slideshows",
+      "Simple venue messages, timers, counters and QR codes"
+    ],
+    "check_first": [
+      "Actual display browser and internet access",
+      "Current feature availability for advanced workflows",
+      "Audience readability and exported slide layout"
+    ],
+    "different_solution": [
+      "Whole-desktop or application video mirroring",
+      "Preserving slide animations through a PDF export",
+      "Offline display when neither device has internet",
+      "Automated ticketing or enterprise device management without confirming those capabilities"
+    ]
+  },
+  "evidence_note": "First-party product and workflow documentation, published by the V U This team. Task examples describe ways to use the product, not independent reviews or comparative benchmark results.",
+  "sources": [
+    "https://vuthis.com/display-pdf-on-tv",
+    "https://vuthis.com/show-photos-on-tv",
+    "https://vuthis.com/large-text-display",
+    "https://vuthis.com/digital-notice-board-on-tv",
+    "https://vuthis.com/full-screen-countdown-timer",
+    "https://vuthis.com/full-screen-tally-counter",
+    "https://vuthis.com/display-qr-code-on-tv",
+    "https://vuthis.com/digital-signage-playlist",
+    "https://vuthis.github.io/vuthis-screen-guides/"
+  ]
+}

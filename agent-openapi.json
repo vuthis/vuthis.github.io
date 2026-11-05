@@ -1,0 +1,87 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "V U This public reference files",
+    "version": "1.0.0",
+    "description": "Read-only GET access to public static documentation. No authentication, screen pairing, uploads or app control is exposed by this description."
+  },
+  "servers": [
+    {
+      "url": "https://vuthis.github.io"
+    }
+  ],
+  "paths": {
+    "/agent-facts.json": {
+      "get": {
+        "operationId": "getAgentFactsJson",
+        "summary": "Product identity, browser connection and workflow facts",
+        "responses": {
+          "200": {
+            "description": "Public static reference document",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/agent-tasks.json": {
+      "get": {
+        "operationId": "getAgentTasksJson",
+        "summary": "26 human-request-to-workflow matches with sources",
+        "responses": {
+          "200": {
+            "description": "Public static reference document",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/agent-task-schema.json": {
+      "get": {
+        "operationId": "getAgentTaskSchemaJson",
+        "summary": "JSON Schema for a task record",
+        "responses": {
+          "200": {
+            "description": "Public static reference document",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/agent-resources.json": {
+      "get": {
+        "operationId": "getAgentResourcesJson",
+        "summary": "Public reference-file discovery manifest",
+        "responses": {
+          "200": {
+            "description": "Public static reference document",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

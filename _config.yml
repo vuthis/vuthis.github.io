@@ -8,3 +8,6 @@ exclude:
   - PUBLISHING.md
   - Gemfile
   - Gemfile.lock
+
+optional_front_matter:
+  enabled: false

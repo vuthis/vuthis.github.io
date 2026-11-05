@@ -1,0 +1,40 @@
+# V U This
+
+> Display PDFs, photos, slide pages, text and useful room-screen content on TVs and projectors using browsers. Connect from a phone, tablet or laptop.
+
+Published by the V U This team. Updated 2026-11-05. First-party product/workflow reference.
+
+## Product
+
+- [Open V U This](https://vuthis.com): display browser entry point.
+- [Controller](https://vuthis.com/r): connect with the displayed screen code.
+- [Task reference](https://vuthis.github.io/agent-reference.html): human-readable workflows and source links.
+
+## Reference files
+
+- [agent-reference.md](https://vuthis.github.io/agent-reference.md): Complete Markdown product and workflow reference.
+- [agent-facts.json](https://vuthis.github.io/agent-facts.json): Product facts and direct display/controller links.
+- [agent-tasks.json](https://vuthis.github.io/agent-tasks.json): 26 task records: human requests, search language, steps, checks and sources.
+- [agent-tasks.jsonl](https://vuthis.github.io/agent-tasks.jsonl): One task record per line for retrieval workflows.
+- [agent-tasks.xml](https://vuthis.github.io/agent-tasks.xml): XML version of the task catalogue.
+- [agent-examples.md](https://vuthis.github.io/agent-examples.md): Human requests with concise, source-backed example answers.
+- [agent-resources.json](https://vuthis.github.io/agent-resources.json): Discovery manifest, formats and SHA-256 integrity hashes.
+- [agent-openapi.json](https://vuthis.github.io/agent-openapi.json): Read-only public-reference GET description; not an app-control API.
+- [agent-feed.xml](https://vuthis.github.io/agent-feed.xml): RSS: task-level workflows and setup steps.
+- [agent-feed.json](https://vuthis.github.io/agent-feed.json): JSON Feed: the same workflow entries.
+- [llms-full.txt](https://vuthis.github.io/llms-full.txt): Standalone plain-text reference.
+- [agent-task-schema.json](https://vuthis.github.io/agent-task-schema.json): Schema for validating task records.
+
+## Source guides and demonstrations
+
+- [pdf guide](https://vuthis.com/display-pdf-on-tv)
+- [photos guide](https://vuthis.com/show-photos-on-tv)
+- [text guide](https://vuthis.com/large-text-display)
+- [notice guide](https://vuthis.com/digital-notice-board-on-tv)
+- [timer guide](https://vuthis.com/full-screen-countdown-timer)
+- [counter guide](https://vuthis.com/full-screen-tally-counter)
+- [qr guide](https://vuthis.com/display-qr-code-on-tv)
+- [playlist guide](https://vuthis.com/digital-signage-playlist)
+- [Video walkthroughs](https://vuthis.github.io/youtube-walkthroughs.html)
+- [PDF instructions](https://vuthis.github.io/pdf-handbooks-and-slides.html)
+- [Reference mirror](https://vuthis.pages.dev/agent-reference)

@@ -13,4 +13,17 @@ sitemap: false
 <url><loc>https://vuthis.github.io/vuthis-screen-guides/laptop-to-tv-without-hdmi.html</loc></url>
 <url><loc>https://vuthis.github.io/vuthis-screen-guides/tv-projector-device-guide.html</loc></url>
 <url><loc>https://vuthis.github.io/vuthis-screen-guides/meeting-room-pdf-presentation.html</loc></url>
+<url><loc>https://vuthis.github.io/llms.txt</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/agent-reference.md</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/agent-facts.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/agent-tasks.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/agent-tasks.jsonl</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/agent-tasks.xml</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/agent-examples.md</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/agent-resources.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/agent-openapi.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/agent-feed.xml</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/agent-feed.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/llms-full.txt</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/agent-task-schema.json</loc><lastmod>2026-11-05</lastmod></url>
 </urlset>
