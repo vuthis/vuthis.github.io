@@ -38,3 +38,21 @@ Published by the V U This team. Updated 2026-11-05. First-party product/workflow
 - [Video walkthroughs](https://vuthis.github.io/youtube-walkthroughs.html)
 - [PDF instructions](https://vuthis.github.io/pdf-handbooks-and-slides.html)
 - [Reference mirror](https://vuthis.pages.dev/agent-reference)
+
+## Interactive walkthroughs and printable handbooks
+
+- [Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough](https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html): six steps, example controls and printable PDF.
+- [Show a PDF on TV or a Projector Without HDMI: Interactive Guide](https://vuthis.github.io/walkthrough-pdf-on-tv-projector.html): six steps, example controls and printable PDF.
+- [PowerPoint, Google Slides and Keynote on TV Without HDMI](https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.html): six steps, example controls and printable PDF.
+- [Show Photos and Run a TV Slideshow Without Casting](https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.html): six steps, example controls and printable PDF.
+- [Display Large Text and Welcome Messages on TV](https://vuthis.github.io/walkthrough-large-text-on-tv.html): six steps, example controls and printable PDF.
+- [Turn a TV into a Digital Notice Board: Interactive Walkthrough](https://vuthis.github.io/walkthrough-announcements-notice-board.html): six steps, example controls and printable PDF.
+- [Show a Full-Screen Clock or World Time on TV](https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html): six steps, example controls and printable PDF.
+- [Countdown, Count-Up and Presentation Timer on TV](https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html): six steps, example controls and printable PDF.
+- [Display a Now-Serving Number or Tally Counter on TV](https://vuthis.github.io/walkthrough-now-serving-tally-counter.html): six steps, example controls and printable PDF.
+- [Display a Website QR Code on TV for Menus, Agendas and Feedback](https://vuthis.github.io/walkthrough-website-qr-code-on-tv.html): six steps, example controls and printable PDF.
+- [Show a Guest Wi-Fi QR Code on a Hotel or Meeting-Room TV](https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.html): six steps, example controls and printable PDF.
+- [Build a Digital Signage Playlist on TV Without a New Media Player](https://vuthis.github.io/walkthrough-digital-signage-playlist.html): six steps, example controls and printable PDF.
+- [IIIF walkthrough collection](https://vuthis.github.io/walkthrough-collection.iiif.json)
+- [Workflow catalogue: all 72 steps](https://vuthis.github.io/walkthrough-catalog.json)
+- [Full walkthrough Markdown](https://vuthis.github.io/walkthroughs.md)

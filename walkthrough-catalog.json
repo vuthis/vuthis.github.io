@@ -1,0 +1,1031 @@
+{
+  "name": "V U This interactive TV and projector walkthroughs",
+  "version": "1.0.0",
+  "updated": "2026-11-05",
+  "publisher": "V U This team",
+  "product": "https://vuthis.com",
+  "collection": "https://vuthis.github.io/walkthrough-collection.iiif.json",
+  "home": "https://vuthis.github.io/interactive-walkthroughs.html",
+  "walkthroughs": [
+    {
+      "id": "connect-phone-laptop-to-tv",
+      "title": "Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough",
+      "description": "Connect a phone, tablet or laptop to a TV or projector browser. Follow the screen-code setup, then show a PDF, photos or a message without an HDMI cable from your controller.",
+      "outcome": "Your chosen content on the room screen. The controls stay with you.",
+      "url": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html",
+      "product_url": "https://vuthis.com",
+      "controller_url": "https://vuthis.com/r",
+      "source": "https://vuthis.com",
+      "human_requests": [
+        "How can I connect my laptop to a TV without HDMI?",
+        "Can I show phone content on a projector without casting?"
+      ],
+      "search_terms": [
+        "connect laptop to TV without HDMI",
+        "connect phone to projector",
+        "different Wi-Fi networks"
+      ],
+      "image": {
+        "url": "https://vuthis.github.io/walk-image-display-pdf-on-tv-from-phone.jpg",
+        "alt": "A PDF on the room display with a separate phone controller"
+      },
+      "steps": [
+        {
+          "position": 1,
+          "name": "Open vuthis.com on the TV or projector",
+          "text": "Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.",
+          "outcome": "The screen is ready for a controller.",
+          "url": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-1"
+        },
+        {
+          "position": 2,
+          "name": "Connect your phone, tablet or laptop",
+          "text": "Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.",
+          "outcome": "The content controls are on your device.",
+          "url": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-2"
+        },
+        {
+          "position": 3,
+          "name": "Choose what the room should see",
+          "text": "Choose Document for a PDF, Photos for pictures, Text for a short message or another screen feature. The TV displays your selected content.",
+          "outcome": "You have selected the right content mode.",
+          "url": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-3"
+        },
+        {
+          "position": 4,
+          "name": "Prepare the content on your controller",
+          "text": "Select the intended file or enter the message. Check the controller preview before you put it in front of the room.",
+          "outcome": "The intended content is ready.",
+          "url": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-4"
+        },
+        {
+          "position": 5,
+          "name": "Choose Show now",
+          "text": "Tap Show now to put the selected content on the display. Keep your controls on the phone or laptop while the audience sees the result.",
+          "outcome": "The room sees the selected content.",
+          "url": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-5"
+        },
+        {
+          "position": 6,
+          "name": "Follow the feature walkthrough",
+          "text": "Choose the PDF, slides, photos or screen-message guide below for the exact controls. Both devices can use different internet connections.",
+          "outcome": "You can change the display from the controller.",
+          "url": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-6"
+        }
+      ],
+      "success_check": "You can change the display from the controller.",
+      "printable_pdf": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.pdf",
+      "iiif_manifest": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json",
+      "related": [
+        {
+          "title": "Show a PDF on TV or a Projector Without HDMI: Interactive Guide",
+          "url": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.html"
+        },
+        {
+          "title": "PowerPoint, Google Slides and Keynote on TV Without HDMI",
+          "url": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.html"
+        },
+        {
+          "title": "Show Photos and Run a TV Slideshow Without Casting",
+          "url": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.html"
+        }
+      ],
+      "reviewed_on": "2026-11-05"
+    },
+    {
+      "id": "pdf-on-tv-projector",
+      "title": "Show a PDF on TV or a Projector Without HDMI: Interactive Guide",
+      "description": "Display a PDF on TV or a projector from your phone or laptop. Follow Document, Show now, Fit page and Fit width with an interactive page-control illustration.",
+      "outcome": "A clean PDF on the display, with page changes controlled from your device.",
+      "url": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.html",
+      "product_url": "https://vuthis.com",
+      "controller_url": "https://vuthis.com/r",
+      "source": "https://vuthis.com/display-pdf-on-tv",
+      "human_requests": [
+        "I need to show this PDF on a projector now.",
+        "How can I display a PDF on a smart TV without a USB stick?"
+      ],
+      "search_terms": [
+        "PDF on projector",
+        "display PDF on TV from phone",
+        "PDF without HDMI"
+      ],
+      "image": {
+        "url": "https://vuthis.github.io/walk-image-display-pdf-on-tv-from-phone.jpg",
+        "alt": "A programme PDF displayed on TV with Previous, Next and view controls on a phone"
+      },
+      "steps": [
+        {
+          "position": 1,
+          "name": "Open vuthis.com on the TV or projector",
+          "text": "Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.",
+          "outcome": "The screen is ready for a controller.",
+          "url": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.html#step-1"
+        },
+        {
+          "position": 2,
+          "name": "Connect your phone, tablet or laptop",
+          "text": "Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.",
+          "outcome": "The content controls are on your device.",
+          "url": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.html#step-2"
+        },
+        {
+          "position": 3,
+          "name": "Choose Document and select your PDF",
+          "text": "On the connected controller, choose Document and select the PDF you want to present. Check that it is the intended document.",
+          "outcome": "The PDF is selected on the controller.",
+          "url": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.html#step-3"
+        },
+        {
+          "position": 4,
+          "name": "Tap Show now to display the PDF",
+          "text": "Choose Show now. The PDF appears on TV or the projector while its controls remain on your phone or laptop.",
+          "outcome": "The audience sees the document.",
+          "url": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.html#step-4"
+        },
+        {
+          "position": 5,
+          "name": "Use Fit page or Fit width",
+          "text": "Fit page keeps the complete page visible. Fit width enlarges a tall page for reading. Choose the view that makes the important text legible.",
+          "outcome": "The page is framed for your audience.",
+          "url": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.html#step-5"
+        },
+        {
+          "position": 6,
+          "name": "Turn pages from your phone or laptop",
+          "text": "Use Previous and Next. In Fit width, the controls move through a tall page a screenful at a time before changing pages.",
+          "outcome": "You can present the document at your own pace.",
+          "url": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.html#step-6"
+        }
+      ],
+      "success_check": "You can present the document at your own pace.",
+      "printable_pdf": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.pdf",
+      "iiif_manifest": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.iiif.json",
+      "related": [
+        {
+          "title": "PowerPoint, Google Slides and Keynote on TV Without HDMI",
+          "url": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.html"
+        },
+        {
+          "title": "Show Photos and Run a TV Slideshow Without Casting",
+          "url": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.html"
+        },
+        {
+          "title": "Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough",
+          "url": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html"
+        }
+      ],
+      "reviewed_on": "2026-11-05"
+    },
+    {
+      "id": "powerpoint-slides-on-tv",
+      "title": "PowerPoint, Google Slides and Keynote on TV Without HDMI",
+      "description": "Show PowerPoint, Google Slides, Keynote or Canva slide pages on TV or a projector. Export to PDF, connect a controller and advance slides without an HDMI cable from your laptop.",
+      "outcome": "Slide pages on the room screen. You decide when the next one appears.",
+      "url": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.html",
+      "product_url": "https://vuthis.com",
+      "controller_url": "https://vuthis.com/r",
+      "source": "https://vuthis.com/display-pdf-on-tv",
+      "human_requests": [
+        "Put my PowerPoint slides on the TV without HDMI.",
+        "How can I show a Google Slides or Keynote presentation on this projector?"
+      ],
+      "search_terms": [
+        "PowerPoint on TV without HDMI",
+        "Google Slides on projector",
+        "Keynote on TV without AirPlay"
+      ],
+      "image": {
+        "url": "https://vuthis.github.io/walk-image-display-pdf-on-tv-from-phone.jpg",
+        "alt": "Slide-style PDF pages on a TV with a separate controller"
+      },
+      "steps": [
+        {
+          "position": 1,
+          "name": "Open vuthis.com on the TV or projector",
+          "text": "Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.",
+          "outcome": "The screen is ready for a controller.",
+          "url": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.html#step-1"
+        },
+        {
+          "position": 2,
+          "name": "Connect your phone, tablet or laptop",
+          "text": "Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.",
+          "outcome": "The content controls are on your device.",
+          "url": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.html#step-2"
+        },
+        {
+          "position": 3,
+          "name": "Export your presentation as PDF",
+          "text": "In PowerPoint, Google Slides, Keynote or Canva, export or download the presentation as PDF. Check the exported page order and layout.",
+          "outcome": "Your presentation is ready as a PDF.",
+          "url": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.html#step-3"
+        },
+        {
+          "position": 4,
+          "name": "Choose Document, then Show now",
+          "text": "Select the exported slide PDF in Document and choose Show now. The presentation pages appear on the shared screen.",
+          "outcome": "The first slide page is on the display.",
+          "url": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.html#step-4"
+        },
+        {
+          "position": 5,
+          "name": "Choose Fit page for complete slides",
+          "text": "Use Fit page so the entire slide is visible. A landscape presentation usually suits a widescreen TV or projector.",
+          "outcome": "The whole slide is visible.",
+          "url": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.html#step-5"
+        },
+        {
+          "position": 6,
+          "name": "Advance the slide pages as you present",
+          "text": "Use Previous and Next on the controller. Keep notes and other device activity on your laptop or phone while the room sees the selected PDF.",
+          "outcome": "The presentation moves at your pace.",
+          "url": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.html#step-6"
+        }
+      ],
+      "success_check": "The presentation moves at your pace.",
+      "printable_pdf": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.pdf",
+      "iiif_manifest": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.iiif.json",
+      "related": [
+        {
+          "title": "Show a PDF on TV or a Projector Without HDMI: Interactive Guide",
+          "url": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.html"
+        },
+        {
+          "title": "Countdown, Count-Up and Presentation Timer on TV",
+          "url": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html"
+        },
+        {
+          "title": "Show a Guest Wi-Fi QR Code on a Hotel or Meeting-Room TV",
+          "url": "https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.html"
+        }
+      ],
+      "reviewed_on": "2026-11-05"
+    },
+    {
+      "id": "photos-slideshow-on-tv",
+      "title": "Show Photos and Run a TV Slideshow Without Casting",
+      "description": "Show photos from your phone on TV without casting. Follow photo selection, order, slideshow timing, Pause, Resume, Fit and Fill in an interactive walkthrough.",
+      "outcome": "The photos you choose on the TV. Move through them yourself or let the slideshow run.",
+      "url": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.html",
+      "product_url": "https://vuthis.com",
+      "controller_url": "https://vuthis.com/r",
+      "source": "https://vuthis.com/show-photos-on-tv",
+      "human_requests": [
+        "Show my phone photos on the TV without casting.",
+        "I need a photo slideshow for a wedding reception screen."
+      ],
+      "search_terms": [
+        "show photos on TV without casting",
+        "photo slideshow on TV from phone",
+        "photos without AirPlay"
+      ],
+      "image": {
+        "url": "https://vuthis.github.io/walk-image-show-photos-on-tv-without-casting.jpg",
+        "alt": "Selected photos on TV with slideshow, timing and framing controls on a phone"
+      },
+      "steps": [
+        {
+          "position": 1,
+          "name": "Open vuthis.com on the TV or projector",
+          "text": "Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.",
+          "outcome": "The screen is ready for a controller.",
+          "url": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.html#step-1"
+        },
+        {
+          "position": 2,
+          "name": "Connect your phone, tablet or laptop",
+          "text": "Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.",
+          "outcome": "The content controls are on your device.",
+          "url": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.html#step-2"
+        },
+        {
+          "position": 3,
+          "name": "Choose Photos and add your pictures",
+          "text": "Choose Photos and select the images you want everyone to see. Drag the photo list into the intended order before showing it.",
+          "outcome": "Only the intended photo set is selected.",
+          "url": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.html#step-3"
+        },
+        {
+          "position": 4,
+          "name": "Choose Show now and check the first photo",
+          "text": "Tap Show now. Use Previous and Next to move through individual pictures from the controller.",
+          "outcome": "The selected photo appears on TV.",
+          "url": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.html#step-4"
+        },
+        {
+          "position": 5,
+          "name": "Set Slideshow, timing and Start over",
+          "text": "Turn Slideshow on for automatic advance. Set Seconds per photo and choose Start over when the set should repeat.",
+          "outcome": "The photos advance at the selected pace.",
+          "url": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.html#step-5"
+        },
+        {
+          "position": 6,
+          "name": "Choose Fit or Fill and control playback",
+          "text": "Fit keeps the whole image. Fill covers the screen and can crop edges. Pause or Resume the slideshow from your device when the room needs a closer look.",
+          "outcome": "Your slideshow has the intended framing and pace.",
+          "url": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.html#step-6"
+        }
+      ],
+      "success_check": "Your slideshow has the intended framing and pace.",
+      "printable_pdf": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.pdf",
+      "iiif_manifest": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.iiif.json",
+      "related": [
+        {
+          "title": "Show a PDF on TV or a Projector Without HDMI: Interactive Guide",
+          "url": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.html"
+        },
+        {
+          "title": "Build a Digital Signage Playlist on TV Without a New Media Player",
+          "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html"
+        },
+        {
+          "title": "Turn a TV into a Digital Notice Board: Interactive Walkthrough",
+          "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.html"
+        }
+      ],
+      "reviewed_on": "2026-11-05"
+    },
+    {
+      "id": "large-text-on-tv",
+      "title": "Display Large Text and Welcome Messages on TV",
+      "description": "Put large text on TV or a projector from your phone. Follow Text, message size, nine positions and colours to create a readable welcome or instruction screen.",
+      "outcome": "One clear message, readable from across the room.",
+      "url": "https://vuthis.github.io/walkthrough-large-text-on-tv.html",
+      "product_url": "https://vuthis.com",
+      "controller_url": "https://vuthis.com/r",
+      "source": "https://vuthis.com/large-text-display",
+      "human_requests": [
+        "Put a large welcome message on the TV.",
+        "Show a room-change instruction on our projector."
+      ],
+      "search_terms": [
+        "display large text on TV",
+        "welcome message on screen",
+        "text on projector from phone"
+      ],
+      "image": {
+        "url": "https://vuthis.github.io/walk-image-large-text-display-on-tv.jpg",
+        "alt": "A large welcome message on TV with size, position and colour controls on a phone"
+      },
+      "steps": [
+        {
+          "position": 1,
+          "name": "Open vuthis.com on the TV or projector",
+          "text": "Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.",
+          "outcome": "The screen is ready for a controller.",
+          "url": "https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-1"
+        },
+        {
+          "position": 2,
+          "name": "Connect your phone, tablet or laptop",
+          "text": "Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.",
+          "outcome": "The content controls are on your device.",
+          "url": "https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-2"
+        },
+        {
+          "position": 3,
+          "name": "Choose Text and write the message",
+          "text": "Choose Text. Enter the short message the room needs: Welcome, Registration this way, Meeting in room 4 or Back at 2:00.",
+          "outcome": "The message says one clear thing.",
+          "url": "https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-3"
+        },
+        {
+          "position": 4,
+          "name": "Choose S, M, L or Max",
+          "text": "Use L for one large line or Max when the message should fill the screen and may wrap. S and M leave more space around the words.",
+          "outcome": "The message has the intended scale.",
+          "url": "https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-4"
+        },
+        {
+          "position": 5,
+          "name": "Set the position and colours",
+          "text": "Choose one of nine positions and a readable text/background combination. Keep the words clear from the farthest audience position.",
+          "outcome": "The layout suits the screen and the room.",
+          "url": "https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-5"
+        },
+        {
+          "position": 6,
+          "name": "Choose Show now and update when needed",
+          "text": "Show the message on the display. Change the wording, position or available styling from the controller when the next instruction is needed.",
+          "outcome": "The room has the current instruction.",
+          "url": "https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-6"
+        }
+      ],
+      "success_check": "The room has the current instruction.",
+      "printable_pdf": "https://vuthis.github.io/walkthrough-large-text-on-tv.pdf",
+      "iiif_manifest": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json",
+      "related": [
+        {
+          "title": "Turn a TV into a Digital Notice Board: Interactive Walkthrough",
+          "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.html"
+        },
+        {
+          "title": "Countdown, Count-Up and Presentation Timer on TV",
+          "url": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html"
+        },
+        {
+          "title": "Build a Digital Signage Playlist on TV Without a New Media Player",
+          "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html"
+        }
+      ],
+      "reviewed_on": "2026-11-05"
+    },
+    {
+      "id": "announcements-notice-board",
+      "title": "Turn a TV into a Digital Notice Board: Interactive Walkthrough",
+      "description": "Display announcements on TV from your phone. Build a notice with title, subtitle and footer, preview the hierarchy and update a reception or event screen.",
+      "outcome": "A structured announcement that tells everyone what changed and what to do next.",
+      "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.html",
+      "product_url": "https://vuthis.com",
+      "controller_url": "https://vuthis.com/r",
+      "source": "https://vuthis.com/digital-notice-board-on-tv",
+      "human_requests": [
+        "Turn the reception TV into a digital notice board.",
+        "Show a conference room-change announcement from my phone."
+      ],
+      "search_terms": [
+        "digital notice board on TV",
+        "announcements on screen",
+        "reception TV message"
+      ],
+      "image": {
+        "url": "https://vuthis.github.io/walk-image-digital-notice-board-on-tv.jpg",
+        "alt": "A TV announcement with title, supporting text and footer beside its phone controls"
+      },
+      "steps": [
+        {
+          "position": 1,
+          "name": "Open vuthis.com on the TV or projector",
+          "text": "Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.",
+          "outcome": "The screen is ready for a controller.",
+          "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-1"
+        },
+        {
+          "position": 2,
+          "name": "Connect your phone, tablet or laptop",
+          "text": "Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.",
+          "outcome": "The content controls are on your device.",
+          "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-2"
+        },
+        {
+          "position": 3,
+          "name": "Choose Announcement and write the title",
+          "text": "Choose Announcement. Give the notice a short title such as Session change, Welcome or Today at reception.",
+          "outcome": "The main point is immediately clear.",
+          "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-3"
+        },
+        {
+          "position": 4,
+          "name": "Add the subtitle and footer",
+          "text": "Use the subtitle for the useful detail and the footer for a time, room or next action. For example: Workshop moved to Hall B; Follow signs upstairs.",
+          "outcome": "The notice has a readable information hierarchy.",
+          "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-4"
+        },
+        {
+          "position": 5,
+          "name": "Choose colours and check the layout",
+          "text": "Choose readable colours. If your current product access includes an image, add one when it helps explain the notice. Preview how the words fit.",
+          "outcome": "The important detail stands out.",
+          "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-5"
+        },
+        {
+          "position": 6,
+          "name": "Show the notice and keep it current",
+          "text": "Choose Show now. Update the announcement from the controller when plans change, then clear or replace it when it no longer applies.",
+          "outcome": "Visitors see the current announcement.",
+          "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-6"
+        }
+      ],
+      "success_check": "Visitors see the current announcement.",
+      "printable_pdf": "https://vuthis.github.io/walkthrough-announcements-notice-board.pdf",
+      "iiif_manifest": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json",
+      "related": [
+        {
+          "title": "Display Large Text and Welcome Messages on TV",
+          "url": "https://vuthis.github.io/walkthrough-large-text-on-tv.html"
+        },
+        {
+          "title": "Build a Digital Signage Playlist on TV Without a New Media Player",
+          "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html"
+        },
+        {
+          "title": "Display a Website QR Code on TV for Menus, Agendas and Feedback",
+          "url": "https://vuthis.github.io/walkthrough-website-qr-code-on-tv.html"
+        }
+      ],
+      "reviewed_on": "2026-11-05"
+    },
+    {
+      "id": "clock-world-time-on-tv",
+      "title": "Show a Full-Screen Clock or World Time on TV",
+      "description": "Put a full-screen clock on TV and control it from your phone. Choose local time or a time zone, a clear label, 12/24-hour format, seconds and date.",
+      "outcome": "One large labelled clock for the time the room needs to follow.",
+      "url": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html",
+      "product_url": "https://vuthis.com",
+      "controller_url": "https://vuthis.com/r",
+      "source": "https://vuthis.com/clock-display-on-tv",
+      "human_requests": [
+        "Put a full-screen clock on our meeting-room TV.",
+        "Show New York time on a London office screen."
+      ],
+      "search_terms": [
+        "full screen clock on TV",
+        "world clock on monitor",
+        "New York time on office screen"
+      ],
+      "image": {
+        "url": "https://vuthis.github.io/walk-image-clock-display-on-tv.jpg",
+        "alt": "A labelled full-screen clock on TV with time zone and format settings on a phone"
+      },
+      "steps": [
+        {
+          "position": 1,
+          "name": "Open vuthis.com on the TV or projector",
+          "text": "Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.",
+          "outcome": "The screen is ready for a controller.",
+          "url": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-1"
+        },
+        {
+          "position": 2,
+          "name": "Connect your phone, tablet or laptop",
+          "text": "Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.",
+          "outcome": "The content controls are on your device.",
+          "url": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-2"
+        },
+        {
+          "position": 3,
+          "name": "Choose Clock and the time source",
+          "text": "Choose Clock. Select Local time for the display browser time zone, or Time zone for another place.",
+          "outcome": "The clock follows the intended location.",
+          "url": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-3"
+        },
+        {
+          "position": 4,
+          "name": "Pick the zone and add a label",
+          "text": "For another time zone, choose the place the room needs to follow. Add a label such as New York, London office or Event time.",
+          "outcome": "Everyone knows which time they are seeing.",
+          "url": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-4"
+        },
+        {
+          "position": 5,
+          "name": "Set 12/24-hour format, seconds and date",
+          "text": "Choose the time format. Turn seconds or the date on when they are useful, and select readable colours.",
+          "outcome": "The time detail suits the room.",
+          "url": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-5"
+        },
+        {
+          "position": 6,
+          "name": "Choose Show now",
+          "text": "Put the clock on the display. Change its settings from the controller while the screen keeps the time visible.",
+          "outcome": "The room has one clear shared clock.",
+          "url": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-6"
+        }
+      ],
+      "success_check": "The room has one clear shared clock.",
+      "printable_pdf": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.pdf",
+      "iiif_manifest": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json",
+      "related": [
+        {
+          "title": "Countdown, Count-Up and Presentation Timer on TV",
+          "url": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html"
+        },
+        {
+          "title": "Turn a TV into a Digital Notice Board: Interactive Walkthrough",
+          "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.html"
+        },
+        {
+          "title": "Build a Digital Signage Playlist on TV Without a New Media Player",
+          "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html"
+        }
+      ],
+      "reviewed_on": "2026-11-05"
+    },
+    {
+      "id": "presentation-timer-on-tv",
+      "title": "Countdown, Count-Up and Presentation Timer on TV",
+      "description": "Control a full-screen TV or projector timer from your phone. Explore Down, Up and To a time, with labels, Pause, Resume and Restart for meetings and workshops.",
+      "outcome": "A clean timer for the room, with timing controls on your device.",
+      "url": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html",
+      "product_url": "https://vuthis.com",
+      "controller_url": "https://vuthis.com/r",
+      "source": "https://vuthis.com/full-screen-countdown-timer",
+      "human_requests": [
+        "Show a countdown timer on the workshop projector.",
+        "I need a meeting timer controlled from my phone, rather than a timer video."
+      ],
+      "search_terms": [
+        "presentation timer on TV",
+        "countdown timer on projector",
+        "classroom exam timer"
+      ],
+      "image": {
+        "url": "https://vuthis.github.io/walk-image-full-screen-countdown-timer-on-tv.jpg",
+        "alt": "A full-screen break countdown on TV with timer controls on a phone"
+      },
+      "steps": [
+        {
+          "position": 1,
+          "name": "Open vuthis.com on the TV or projector",
+          "text": "Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.",
+          "outcome": "The screen is ready for a controller.",
+          "url": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-1"
+        },
+        {
+          "position": 2,
+          "name": "Connect your phone, tablet or laptop",
+          "text": "Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.",
+          "outcome": "The content controls are on your device.",
+          "url": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-2"
+        },
+        {
+          "position": 3,
+          "name": "Choose Timer and a mode",
+          "text": "Choose Down for a set duration, Up for elapsed time or To a time for a fixed clock-time target.",
+          "outcome": "The timer matches the activity.",
+          "url": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-3"
+        },
+        {
+          "position": 4,
+          "name": "Set the duration or target and label",
+          "text": "Enter the duration or finishing time. Add a label such as Break, Questions, Presentation time or Group work. Choose readable colours.",
+          "outcome": "The room knows what the time refers to.",
+          "url": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-4"
+        },
+        {
+          "position": 5,
+          "name": "Choose Show now and run the timer",
+          "text": "Show the timer on the shared display. The audience sees the large timer while the controller keeps its buttons.",
+          "outcome": "The room can follow the time.",
+          "url": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-5"
+        },
+        {
+          "position": 6,
+          "name": "Pause, resume or restart the appropriate mode",
+          "text": "Down and Up support Pause, Resume and Restart. To a time stays tied to the fixed target. At the end of a countdown, the timer and background colours swap.",
+          "outcome": "The timer follows the event rather than distracting from it.",
+          "url": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-6"
+        }
+      ],
+      "success_check": "The timer follows the event rather than distracting from it.",
+      "printable_pdf": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.pdf",
+      "iiif_manifest": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json",
+      "related": [
+        {
+          "title": "Show a Full-Screen Clock or World Time on TV",
+          "url": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html"
+        },
+        {
+          "title": "PowerPoint, Google Slides and Keynote on TV Without HDMI",
+          "url": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.html"
+        },
+        {
+          "title": "Build a Digital Signage Playlist on TV Without a New Media Player",
+          "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html"
+        }
+      ],
+      "reviewed_on": "2026-11-05"
+    },
+    {
+      "id": "now-serving-tally-counter",
+      "title": "Display a Now-Serving Number or Tally Counter on TV",
+      "description": "Put a live tally or now-serving number on TV and control it from your phone. Set the start, Step and label, then count up, count down or reset.",
+      "outcome": "The current number, large and labelled, with the controls kept off the public screen.",
+      "url": "https://vuthis.github.io/walkthrough-now-serving-tally-counter.html",
+      "product_url": "https://vuthis.com",
+      "controller_url": "https://vuthis.com/r",
+      "source": "https://vuthis.com/full-screen-tally-counter",
+      "human_requests": [
+        "Show a now-serving number on our TV.",
+        "I need a big counter that changes when I tap my phone."
+      ],
+      "search_terms": [
+        "now serving number on TV",
+        "tally counter on big screen",
+        "phone controlled number display"
+      ],
+      "image": {
+        "url": "https://vuthis.github.io/walk-image-full-screen-tally-counter-on-tv.jpg",
+        "alt": "A labelled tally counter on a TV with plus, minus and Reset on a phone"
+      },
+      "steps": [
+        {
+          "position": 1,
+          "name": "Open vuthis.com on the TV or projector",
+          "text": "Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.",
+          "outcome": "The screen is ready for a controller.",
+          "url": "https://vuthis.github.io/walkthrough-now-serving-tally-counter.html#step-1"
+        },
+        {
+          "position": 2,
+          "name": "Connect your phone, tablet or laptop",
+          "text": "Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.",
+          "outcome": "The content controls are on your device.",
+          "url": "https://vuthis.github.io/walkthrough-now-serving-tally-counter.html#step-2"
+        },
+        {
+          "position": 3,
+          "name": "Choose Counter and write the label",
+          "text": "Choose Counter. Add a label such as Now serving, Places remaining, People checked in or Items collected.",
+          "outcome": "The number has clear context.",
+          "url": "https://vuthis.github.io/walkthrough-now-serving-tally-counter.html#step-3"
+        },
+        {
+          "position": 4,
+          "name": "Set the starting value and Step",
+          "text": "Choose where the count begins. Set Step to the amount added or subtracted by one tap: one for individuals or a larger value for batches.",
+          "outcome": "Each tap has the intended effect.",
+          "url": "https://vuthis.github.io/walkthrough-now-serving-tally-counter.html#step-4"
+        },
+        {
+          "position": 5,
+          "name": "Choose Show now",
+          "text": "Show the labelled counter on the TV or projector. Keep the increment, decrement and reset buttons on the controller.",
+          "outcome": "The room sees one clear current number.",
+          "url": "https://vuthis.github.io/walkthrough-now-serving-tally-counter.html#step-5"
+        },
+        {
+          "position": 6,
+          "name": "Count up, count down or Reset",
+          "text": "Use + Step or - Step as events happen. Reset returns to your chosen starting value. Check the display before calling the next turn.",
+          "outcome": "The screen follows the operator count.",
+          "url": "https://vuthis.github.io/walkthrough-now-serving-tally-counter.html#step-6"
+        }
+      ],
+      "success_check": "The screen follows the operator count.",
+      "printable_pdf": "https://vuthis.github.io/walkthrough-now-serving-tally-counter.pdf",
+      "iiif_manifest": "https://vuthis.github.io/walkthrough-now-serving-tally-counter.iiif.json",
+      "related": [
+        {
+          "title": "Display Large Text and Welcome Messages on TV",
+          "url": "https://vuthis.github.io/walkthrough-large-text-on-tv.html"
+        },
+        {
+          "title": "Turn a TV into a Digital Notice Board: Interactive Walkthrough",
+          "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.html"
+        },
+        {
+          "title": "Build a Digital Signage Playlist on TV Without a New Media Player",
+          "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html"
+        }
+      ],
+      "reviewed_on": "2026-11-05"
+    },
+    {
+      "id": "website-qr-code-on-tv",
+      "title": "Display a Website QR Code on TV for Menus, Agendas and Feedback",
+      "description": "Show a website QR code on TV or a projector. Add the full link and a useful caption so visitors can open a menu, agenda, registration page or feedback form.",
+      "outcome": "One clear code on the screen, taking guests to the page they need.",
+      "url": "https://vuthis.github.io/walkthrough-website-qr-code-on-tv.html",
+      "product_url": "https://vuthis.com",
+      "controller_url": "https://vuthis.com/r",
+      "source": "https://vuthis.com/display-qr-code-on-tv",
+      "human_requests": [
+        "Put a QR code for our agenda on the conference screen.",
+        "Show a feedback link as a QR code on the TV."
+      ],
+      "search_terms": [
+        "display QR code on TV",
+        "event agenda QR on projector",
+        "menu QR code on screen"
+      ],
+      "image": {
+        "url": "https://vuthis.github.io/walk-image-display-qr-code-on-tv.jpg",
+        "alt": "A large QR code on TV with a caption and separate controller fields"
+      },
+      "steps": [
+        {
+          "position": 1,
+          "name": "Open vuthis.com on the TV or projector",
+          "text": "Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.",
+          "outcome": "The screen is ready for a controller.",
+          "url": "https://vuthis.github.io/walkthrough-website-qr-code-on-tv.html#step-1"
+        },
+        {
+          "position": 2,
+          "name": "Connect your phone, tablet or laptop",
+          "text": "Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.",
+          "outcome": "The content controls are on your device.",
+          "url": "https://vuthis.github.io/walkthrough-website-qr-code-on-tv.html#step-2"
+        },
+        {
+          "position": 3,
+          "name": "Choose QR code, then URL",
+          "text": "Choose the QR-code feature and select URL for a web page. Use the current product interface for access to this feature.",
+          "outcome": "The QR code is set up for a website link.",
+          "url": "https://vuthis.github.io/walkthrough-website-qr-code-on-tv.html#step-3"
+        },
+        {
+          "position": 4,
+          "name": "Enter the full destination address",
+          "text": "Enter the complete https:// or http:// address for the menu, agenda, form or other page. Check that it opens for the intended audience.",
+          "outcome": "The destination is correct.",
+          "url": "https://vuthis.github.io/walkthrough-website-qr-code-on-tv.html#step-4"
+        },
+        {
+          "position": 5,
+          "name": "Add a caption and choose Show now",
+          "text": "Use a caption that explains the result, such as View today's agenda or Tell us how we did. Show the code on the display.",
+          "outcome": "Visitors know why they should scan.",
+          "url": "https://vuthis.github.io/walkthrough-website-qr-code-on-tv.html#step-5"
+        },
+        {
+          "position": 6,
+          "name": "Test from the audience position",
+          "text": "Scan the displayed code with a separate phone. Confirm that it opens the intended page and the useful information is accessible.",
+          "outcome": "The code leads to the right next action.",
+          "url": "https://vuthis.github.io/walkthrough-website-qr-code-on-tv.html#step-6"
+        }
+      ],
+      "success_check": "The code leads to the right next action.",
+      "printable_pdf": "https://vuthis.github.io/walkthrough-website-qr-code-on-tv.pdf",
+      "iiif_manifest": "https://vuthis.github.io/walkthrough-website-qr-code-on-tv.iiif.json",
+      "related": [
+        {
+          "title": "Show a Guest Wi-Fi QR Code on a Hotel or Meeting-Room TV",
+          "url": "https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.html"
+        },
+        {
+          "title": "Turn a TV into a Digital Notice Board: Interactive Walkthrough",
+          "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.html"
+        },
+        {
+          "title": "Build a Digital Signage Playlist on TV Without a New Media Player",
+          "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html"
+        }
+      ],
+      "reviewed_on": "2026-11-05"
+    },
+    {
+      "id": "guest-wifi-qr-on-tv",
+      "title": "Show a Guest Wi-Fi QR Code on a Hotel or Meeting-Room TV",
+      "description": "Display a guest Wi-Fi QR code on TV. Enter authorised network details, add a clear caption and test joining from another phone for meetings, hotels and events.",
+      "outcome": "Guest-network joining details in one scannable code on the screen.",
+      "url": "https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.html",
+      "product_url": "https://vuthis.com",
+      "controller_url": "https://vuthis.com/r",
+      "source": "https://vuthis.com/display-qr-code-on-tv",
+      "human_requests": [
+        "Put our guest Wi-Fi QR code on the reception TV.",
+        "Help workshop visitors join the guest network from a screen."
+      ],
+      "search_terms": [
+        "guest WiFi QR code on TV",
+        "hotel WiFi QR display",
+        "meeting room guest network QR"
+      ],
+      "image": {
+        "url": "https://vuthis.github.io/walk-image-display-qr-code-on-tv.jpg",
+        "alt": "A guest Wi-Fi QR code displayed on TV with controller settings on a phone"
+      },
+      "steps": [
+        {
+          "position": 1,
+          "name": "Open vuthis.com on the TV or projector",
+          "text": "Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.",
+          "outcome": "The screen is ready for a controller.",
+          "url": "https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.html#step-1"
+        },
+        {
+          "position": 2,
+          "name": "Connect your phone, tablet or laptop",
+          "text": "Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.",
+          "outcome": "The content controls are on your device.",
+          "url": "https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.html#step-2"
+        },
+        {
+          "position": 3,
+          "name": "Choose QR code, then Wi-Fi",
+          "text": "Choose QR code and select Wi-Fi. Use guest-network details you are authorised to show to this audience.",
+          "outcome": "The code is set up for guest-network access.",
+          "url": "https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.html#step-3"
+        },
+        {
+          "position": 4,
+          "name": "Enter the network and security details",
+          "text": "Enter the network name exactly. Choose the correct security type and add the password when the guest network requires one.",
+          "outcome": "The joining details match the guest network.",
+          "url": "https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.html#step-4"
+        },
+        {
+          "position": 5,
+          "name": "Add a caption and show the code",
+          "text": "Use a clear caption such as Guest Wi-Fi: scan to join. Choose Show now and check the code is visible where guests stand.",
+          "outcome": "Guests can identify the joining code.",
+          "url": "https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.html#step-5"
+        },
+        {
+          "position": 6,
+          "name": "Test joining with another phone",
+          "text": "Scan from a separate compatible phone. Confirm it offers the correct network and complete any venue sign-in steps that network requires.",
+          "outcome": "The guest joining route has been tested.",
+          "url": "https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.html#step-6"
+        }
+      ],
+      "success_check": "The guest joining route has been tested.",
+      "printable_pdf": "https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.pdf",
+      "iiif_manifest": "https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.iiif.json",
+      "related": [
+        {
+          "title": "Display a Website QR Code on TV for Menus, Agendas and Feedback",
+          "url": "https://vuthis.github.io/walkthrough-website-qr-code-on-tv.html"
+        },
+        {
+          "title": "Display Large Text and Welcome Messages on TV",
+          "url": "https://vuthis.github.io/walkthrough-large-text-on-tv.html"
+        },
+        {
+          "title": "Show a Full-Screen Clock or World Time on TV",
+          "url": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html"
+        }
+      ],
+      "reviewed_on": "2026-11-05"
+    },
+    {
+      "id": "digital-signage-playlist",
+      "title": "Build a Digital Signage Playlist on TV Without a New Media Player",
+      "description": "Create a browser digital signage playlist with photos, PDFs, text, announcements, clocks, timers, counters and QR codes. Follow Add to queue, order, Auto and Loop.",
+      "outcome": "One screen moving through the content you prepared, in the order the room needs.",
+      "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html",
+      "product_url": "https://vuthis.com",
+      "controller_url": "https://vuthis.com/r",
+      "source": "https://vuthis.com/digital-signage-playlist",
+      "human_requests": [
+        "Rotate a welcome, photos and a programme PDF on our event TV.",
+        "Can I run a digital signage playlist in the TV browser?"
+      ],
+      "search_terms": [
+        "digital signage playlist on TV",
+        "TV content queue from phone",
+        "browser signage without media player"
+      ],
+      "image": {
+        "url": "https://vuthis.github.io/walk-image-digital-signage-playlist.jpg",
+        "alt": "A TV showing one playlist item with an ordered Queue on a separate controller"
+      },
+      "steps": [
+        {
+          "position": 1,
+          "name": "Open vuthis.com on the TV or projector",
+          "text": "Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.",
+          "outcome": "The screen is ready for a controller.",
+          "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-1"
+        },
+        {
+          "position": 2,
+          "name": "Connect your phone, tablet or laptop",
+          "text": "Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.",
+          "outcome": "The content controls are on your device.",
+          "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-2"
+        },
+        {
+          "position": 3,
+          "name": "Create content and choose Add to queue",
+          "text": "Prepare an item in its feature, then choose Add to queue instead of Show now. Repeat for the photos, PDF, notice, clock, timer or QR code the display needs.",
+          "outcome": "Your screen content is collected in Queue.",
+          "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-3"
+        },
+        {
+          "position": 4,
+          "name": "Drag the Queue into the right order",
+          "text": "Arrange the items in the sequence the audience should see. Remove outdated items. Use an item's Show now when something needs the screen immediately.",
+          "outcome": "The running order matches your event or venue.",
+          "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-4"
+        },
+        {
+          "position": 5,
+          "name": "Choose manual play, Auto and Loop",
+          "text": "Use Play queue for manual progression. Turn Auto on for automatic advance, set Seconds per item and enable Loop when the sequence should repeat.",
+          "outcome": "The display follows your chosen playback pattern.",
+          "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-5"
+        },
+        {
+          "position": 6,
+          "name": "Preview the whole sequence",
+          "text": "Watch the transitions. Slideshows and countdowns can hold Auto until their own finish; ordinary items use the Queue timing. The display continues until the V U This session ends.",
+          "outcome": "The screen is ready for the audience.",
+          "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-6"
+        }
+      ],
+      "success_check": "The screen is ready for the audience.",
+      "printable_pdf": "https://vuthis.github.io/walkthrough-digital-signage-playlist.pdf",
+      "iiif_manifest": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json",
+      "related": [
+        {
+          "title": "Turn a TV into a Digital Notice Board: Interactive Walkthrough",
+          "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.html"
+        },
+        {
+          "title": "Show Photos and Run a TV Slideshow Without Casting",
+          "url": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.html"
+        },
+        {
+          "title": "Countdown, Count-Up and Presentation Timer on TV",
+          "url": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html"
+        }
+      ],
+      "reviewed_on": "2026-11-05"
+    }
+  ]
+}

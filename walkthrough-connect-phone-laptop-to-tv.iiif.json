@@ -1,0 +1,339 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Connect a phone, tablet or laptop to a TV or projector browser. Follow the screen-code setup, then show a PDF, photos or a message without an HDMI cable from your controller."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Outcome"
+        ]
+      },
+      "value": {
+        "en": [
+          "Your chosen content on the room screen. The controls stay with you."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Main product"
+        ]
+      },
+      "value": {
+        "en": [
+          "<a href=\"https://vuthis.com\">Open V U This on the display</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Topic"
+        ]
+      },
+      "value": {
+        "en": [
+          "connect laptop to TV without HDMI",
+          "connect phone to projector",
+          "different Wi-Fi networks"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Publisher"
+        ]
+      },
+      "value": {
+        "en": [
+          "V U This team"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough"
+        ]
+      },
+      "format": "text/html"
+    },
+    {
+      "id": "https://vuthis.com",
+      "type": "Text",
+      "label": {
+        "en": [
+          "V U This: open on the TV or projector display"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-catalog.json",
+      "type": "Dataset",
+      "format": "application/json",
+      "label": {
+        "en": [
+          "TV and projector workflow steps and related guides"
+        ]
+      }
+    }
+  ],
+  "rendering": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.pdf",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough - printable PDF"
+        ]
+      },
+      "format": "application/pdf"
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Published by"
+      ]
+    },
+    "value": {
+      "en": [
+        "V U This team. Product and setup: <a href=\"https://vuthis.com\">vuthis.com</a>."
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://vuthis.com",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "V U This"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://vuthis.com",
+          "type": "Text",
+          "label": {
+            "en": [
+              "V U This browser display tool"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Connect and begin | Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough"
+        ]
+      },
+      "width": 850,
+      "height": 1100,
+      "items": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/painting/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv-page-1.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 850,
+                "height": 1100
+              },
+              "target": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/notes/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/note/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Open vuthis.com on the TV or projector</h3><p>Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.</p><p>The screen is ready for a controller.</p><p><a href=\"https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-1\">Follow this step in Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/canvas/1"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/note/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Connect your phone, tablet or laptop</h3><p>Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.</p><p>The content controls are on your device.</p><p><a href=\"https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-2\">Follow this step in Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/canvas/1"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/note/3",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Choose what the room should see</h3><p>Choose Document for a PDF, Photos for pictures, Text for a short message or another screen feature. The TV displays your selected content.</p><p>You have selected the right content mode.</p><p><a href=\"https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-3\">Follow this step in Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-1",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough - interactive steps"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Use the controls and check the result | Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough"
+        ]
+      },
+      "width": 850,
+      "height": 1100,
+      "items": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/painting/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv-page-2.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 850,
+                "height": 1100
+              },
+              "target": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/notes/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/note/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Prepare the content on your controller</h3><p>Select the intended file or enter the message. Check the controller preview before you put it in front of the room.</p><p>The intended content is ready.</p><p><a href=\"https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-4\">Follow this step in Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/canvas/2"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/note/5",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Choose Show now</h3><p>Tap Show now to put the selected content on the display. Keep your controls on the phone or laptop while the audience sees the result.</p><p>The room sees the selected content.</p><p><a href=\"https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-5\">Follow this step in Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/canvas/2"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/note/6",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Follow the feature walkthrough</h3><p>Choose the PDF, slides, photos or screen-message guide below for the exact controls. Both devices can use different internet connections.</p><p>You can change the display from the controller.</p><p><a href=\"https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-6\">Follow this step in Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.html#step-4",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Connect a Phone or Laptop to TV Without HDMI: Interactive Walkthrough - interactive steps"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv-page-1.png",
+      "type": "Image",
+      "format": "image/png",
+      "width": 850,
+      "height": 1100
+    }
+  ]
+}

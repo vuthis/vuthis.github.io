@@ -1,0 +1,339 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Display Large Text and Welcome Messages on TV"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Put large text on TV or a projector from your phone. Follow Text, message size, nine positions and colours to create a readable welcome or instruction screen."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Outcome"
+        ]
+      },
+      "value": {
+        "en": [
+          "One clear message, readable from across the room."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Main product"
+        ]
+      },
+      "value": {
+        "en": [
+          "<a href=\"https://vuthis.com\">Open V U This on the display</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Topic"
+        ]
+      },
+      "value": {
+        "en": [
+          "display large text on TV",
+          "welcome message on screen",
+          "text on projector from phone"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Publisher"
+        ]
+      },
+      "value": {
+        "en": [
+          "V U This team"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.html",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Display Large Text and Welcome Messages on TV"
+        ]
+      },
+      "format": "text/html"
+    },
+    {
+      "id": "https://vuthis.com",
+      "type": "Text",
+      "label": {
+        "en": [
+          "V U This: open on the TV or projector display"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-catalog.json",
+      "type": "Dataset",
+      "format": "application/json",
+      "label": {
+        "en": [
+          "TV and projector workflow steps and related guides"
+        ]
+      }
+    }
+  ],
+  "rendering": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.pdf",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Display Large Text and Welcome Messages on TV - printable PDF"
+        ]
+      },
+      "format": "application/pdf"
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Published by"
+      ]
+    },
+    "value": {
+      "en": [
+        "V U This team. Product and setup: <a href=\"https://vuthis.com\">vuthis.com</a>."
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://vuthis.com",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "V U This"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://vuthis.com",
+          "type": "Text",
+          "label": {
+            "en": [
+              "V U This browser display tool"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Connect and begin | Display Large Text and Welcome Messages on TV"
+        ]
+      },
+      "width": 850,
+      "height": 1100,
+      "items": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/painting/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vuthis.github.io/walkthrough-large-text-on-tv-page-1.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 850,
+                "height": 1100
+              },
+              "target": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/notes/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/note/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Open vuthis.com on the TV or projector</h3><p>Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.</p><p>The screen is ready for a controller.</p><p><a href=\"https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-1\">Follow this step in Display Large Text and Welcome Messages on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/canvas/1"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/note/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Connect your phone, tablet or laptop</h3><p>Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.</p><p>The content controls are on your device.</p><p><a href=\"https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-2\">Follow this step in Display Large Text and Welcome Messages on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/canvas/1"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/note/3",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Choose Text and write the message</h3><p>Choose Text. Enter the short message the room needs: Welcome, Registration this way, Meeting in room 4 or Back at 2:00.</p><p>The message says one clear thing.</p><p><a href=\"https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-3\">Follow this step in Display Large Text and Welcome Messages on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-1",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Display Large Text and Welcome Messages on TV - interactive steps"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Use the controls and check the result | Display Large Text and Welcome Messages on TV"
+        ]
+      },
+      "width": 850,
+      "height": 1100,
+      "items": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/painting/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vuthis.github.io/walkthrough-large-text-on-tv-page-2.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 850,
+                "height": 1100
+              },
+              "target": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/notes/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/note/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Choose S, M, L or Max</h3><p>Use L for one large line or Max when the message should fill the screen and may wrap. S and M leave more space around the words.</p><p>The message has the intended scale.</p><p><a href=\"https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-4\">Follow this step in Display Large Text and Welcome Messages on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/canvas/2"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/note/5",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Set the position and colours</h3><p>Choose one of nine positions and a readable text/background combination. Keep the words clear from the farthest audience position.</p><p>The layout suits the screen and the room.</p><p><a href=\"https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-5\">Follow this step in Display Large Text and Welcome Messages on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/canvas/2"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/note/6",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Choose Show now and update when needed</h3><p>Show the message on the display. Change the wording, position or available styling from the controller when the next instruction is needed.</p><p>The room has the current instruction.</p><p><a href=\"https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-6\">Follow this step in Display Large Text and Welcome Messages on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-large-text-on-tv.html#step-4",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Display Large Text and Welcome Messages on TV - interactive steps"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-large-text-on-tv-page-1.png",
+      "type": "Image",
+      "format": "image/png",
+      "width": 850,
+      "height": 1100
+    }
+  ]
+}

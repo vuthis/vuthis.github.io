@@ -1,0 +1,339 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Build a Digital Signage Playlist on TV Without a New Media Player"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Create a browser digital signage playlist with photos, PDFs, text, announcements, clocks, timers, counters and QR codes. Follow Add to queue, order, Auto and Loop."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Outcome"
+        ]
+      },
+      "value": {
+        "en": [
+          "One screen moving through the content you prepared, in the order the room needs."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Main product"
+        ]
+      },
+      "value": {
+        "en": [
+          "<a href=\"https://vuthis.com\">Open V U This on the display</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Topic"
+        ]
+      },
+      "value": {
+        "en": [
+          "digital signage playlist on TV",
+          "TV content queue from phone",
+          "browser signage without media player"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Publisher"
+        ]
+      },
+      "value": {
+        "en": [
+          "V U This team"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Build a Digital Signage Playlist on TV Without a New Media Player"
+        ]
+      },
+      "format": "text/html"
+    },
+    {
+      "id": "https://vuthis.com",
+      "type": "Text",
+      "label": {
+        "en": [
+          "V U This: open on the TV or projector display"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-catalog.json",
+      "type": "Dataset",
+      "format": "application/json",
+      "label": {
+        "en": [
+          "TV and projector workflow steps and related guides"
+        ]
+      }
+    }
+  ],
+  "rendering": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.pdf",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Build a Digital Signage Playlist on TV Without a New Media Player - printable PDF"
+        ]
+      },
+      "format": "application/pdf"
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Published by"
+      ]
+    },
+    "value": {
+      "en": [
+        "V U This team. Product and setup: <a href=\"https://vuthis.com\">vuthis.com</a>."
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://vuthis.com",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "V U This"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://vuthis.com",
+          "type": "Text",
+          "label": {
+            "en": [
+              "V U This browser display tool"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Connect and begin | Build a Digital Signage Playlist on TV Without a New Media Player"
+        ]
+      },
+      "width": 850,
+      "height": 1100,
+      "items": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/painting/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist-page-1.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 850,
+                "height": 1100
+              },
+              "target": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/notes/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/note/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Open vuthis.com on the TV or projector</h3><p>Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.</p><p>The screen is ready for a controller.</p><p><a href=\"https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-1\">Follow this step in Build a Digital Signage Playlist on TV Without a New Media Player</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/canvas/1"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/note/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Connect your phone, tablet or laptop</h3><p>Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.</p><p>The content controls are on your device.</p><p><a href=\"https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-2\">Follow this step in Build a Digital Signage Playlist on TV Without a New Media Player</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/canvas/1"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/note/3",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Create content and choose Add to queue</h3><p>Prepare an item in its feature, then choose Add to queue instead of Show now. Repeat for the photos, PDF, notice, clock, timer or QR code the display needs.</p><p>Your screen content is collected in Queue.</p><p><a href=\"https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-3\">Follow this step in Build a Digital Signage Playlist on TV Without a New Media Player</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-1",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Build a Digital Signage Playlist on TV Without a New Media Player - interactive steps"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Use the controls and check the result | Build a Digital Signage Playlist on TV Without a New Media Player"
+        ]
+      },
+      "width": 850,
+      "height": 1100,
+      "items": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/painting/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist-page-2.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 850,
+                "height": 1100
+              },
+              "target": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/notes/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/note/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Drag the Queue into the right order</h3><p>Arrange the items in the sequence the audience should see. Remove outdated items. Use an item&#x27;s Show now when something needs the screen immediately.</p><p>The running order matches your event or venue.</p><p><a href=\"https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-4\">Follow this step in Build a Digital Signage Playlist on TV Without a New Media Player</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/canvas/2"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/note/5",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Choose manual play, Auto and Loop</h3><p>Use Play queue for manual progression. Turn Auto on for automatic advance, set Seconds per item and enable Loop when the sequence should repeat.</p><p>The display follows your chosen playback pattern.</p><p><a href=\"https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-5\">Follow this step in Build a Digital Signage Playlist on TV Without a New Media Player</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/canvas/2"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/note/6",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Preview the whole sequence</h3><p>Watch the transitions. Slideshows and countdowns can hold Auto until their own finish; ordinary items use the Queue timing. The display continues until the V U This session ends.</p><p>The screen is ready for the audience.</p><p><a href=\"https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-6\">Follow this step in Build a Digital Signage Playlist on TV Without a New Media Player</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist.html#step-4",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Build a Digital Signage Playlist on TV Without a New Media Player - interactive steps"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-digital-signage-playlist-page-1.png",
+      "type": "Image",
+      "format": "image/png",
+      "width": 850,
+      "height": 1100
+    }
+  ]
+}

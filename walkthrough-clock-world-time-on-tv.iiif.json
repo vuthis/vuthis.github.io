@@ -1,0 +1,339 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Show a Full-Screen Clock or World Time on TV"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Put a full-screen clock on TV and control it from your phone. Choose local time or a time zone, a clear label, 12/24-hour format, seconds and date."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Outcome"
+        ]
+      },
+      "value": {
+        "en": [
+          "One large labelled clock for the time the room needs to follow."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Main product"
+        ]
+      },
+      "value": {
+        "en": [
+          "<a href=\"https://vuthis.com\">Open V U This on the display</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Topic"
+        ]
+      },
+      "value": {
+        "en": [
+          "full screen clock on TV",
+          "world clock on monitor",
+          "New York time on office screen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Publisher"
+        ]
+      },
+      "value": {
+        "en": [
+          "V U This team"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Show a Full-Screen Clock or World Time on TV"
+        ]
+      },
+      "format": "text/html"
+    },
+    {
+      "id": "https://vuthis.com",
+      "type": "Text",
+      "label": {
+        "en": [
+          "V U This: open on the TV or projector display"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-catalog.json",
+      "type": "Dataset",
+      "format": "application/json",
+      "label": {
+        "en": [
+          "TV and projector workflow steps and related guides"
+        ]
+      }
+    }
+  ],
+  "rendering": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.pdf",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Show a Full-Screen Clock or World Time on TV - printable PDF"
+        ]
+      },
+      "format": "application/pdf"
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Published by"
+      ]
+    },
+    "value": {
+      "en": [
+        "V U This team. Product and setup: <a href=\"https://vuthis.com\">vuthis.com</a>."
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://vuthis.com",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "V U This"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://vuthis.com",
+          "type": "Text",
+          "label": {
+            "en": [
+              "V U This browser display tool"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Connect and begin | Show a Full-Screen Clock or World Time on TV"
+        ]
+      },
+      "width": 850,
+      "height": 1100,
+      "items": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/painting/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv-page-1.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 850,
+                "height": 1100
+              },
+              "target": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/notes/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/note/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Open vuthis.com on the TV or projector</h3><p>Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.</p><p>The screen is ready for a controller.</p><p><a href=\"https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-1\">Follow this step in Show a Full-Screen Clock or World Time on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/canvas/1"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/note/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Connect your phone, tablet or laptop</h3><p>Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.</p><p>The content controls are on your device.</p><p><a href=\"https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-2\">Follow this step in Show a Full-Screen Clock or World Time on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/canvas/1"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/note/3",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Choose Clock and the time source</h3><p>Choose Clock. Select Local time for the display browser time zone, or Time zone for another place.</p><p>The clock follows the intended location.</p><p><a href=\"https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-3\">Follow this step in Show a Full-Screen Clock or World Time on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-1",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Show a Full-Screen Clock or World Time on TV - interactive steps"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Use the controls and check the result | Show a Full-Screen Clock or World Time on TV"
+        ]
+      },
+      "width": 850,
+      "height": 1100,
+      "items": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/painting/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv-page-2.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 850,
+                "height": 1100
+              },
+              "target": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/notes/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/note/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Pick the zone and add a label</h3><p>For another time zone, choose the place the room needs to follow. Add a label such as New York, London office or Event time.</p><p>Everyone knows which time they are seeing.</p><p><a href=\"https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-4\">Follow this step in Show a Full-Screen Clock or World Time on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/canvas/2"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/note/5",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Set 12/24-hour format, seconds and date</h3><p>Choose the time format. Turn seconds or the date on when they are useful, and select readable colours.</p><p>The time detail suits the room.</p><p><a href=\"https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-5\">Follow this step in Show a Full-Screen Clock or World Time on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/canvas/2"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/note/6",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Choose Show now</h3><p>Put the clock on the display. Change its settings from the controller while the screen keeps the time visible.</p><p>The room has one clear shared clock.</p><p><a href=\"https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-6\">Follow this step in Show a Full-Screen Clock or World Time on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.html#step-4",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Show a Full-Screen Clock or World Time on TV - interactive steps"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv-page-1.png",
+      "type": "Image",
+      "format": "image/png",
+      "width": 850,
+      "height": 1100
+    }
+  ]
+}

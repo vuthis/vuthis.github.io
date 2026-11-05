@@ -1,0 +1,339 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Countdown, Count-Up and Presentation Timer on TV"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Control a full-screen TV or projector timer from your phone. Explore Down, Up and To a time, with labels, Pause, Resume and Restart for meetings and workshops."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Outcome"
+        ]
+      },
+      "value": {
+        "en": [
+          "A clean timer for the room, with timing controls on your device."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Main product"
+        ]
+      },
+      "value": {
+        "en": [
+          "<a href=\"https://vuthis.com\">Open V U This on the display</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Topic"
+        ]
+      },
+      "value": {
+        "en": [
+          "presentation timer on TV",
+          "countdown timer on projector",
+          "classroom exam timer"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Publisher"
+        ]
+      },
+      "value": {
+        "en": [
+          "V U This team"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Countdown, Count-Up and Presentation Timer on TV"
+        ]
+      },
+      "format": "text/html"
+    },
+    {
+      "id": "https://vuthis.com",
+      "type": "Text",
+      "label": {
+        "en": [
+          "V U This: open on the TV or projector display"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-catalog.json",
+      "type": "Dataset",
+      "format": "application/json",
+      "label": {
+        "en": [
+          "TV and projector workflow steps and related guides"
+        ]
+      }
+    }
+  ],
+  "rendering": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.pdf",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Countdown, Count-Up and Presentation Timer on TV - printable PDF"
+        ]
+      },
+      "format": "application/pdf"
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Published by"
+      ]
+    },
+    "value": {
+      "en": [
+        "V U This team. Product and setup: <a href=\"https://vuthis.com\">vuthis.com</a>."
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://vuthis.com",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "V U This"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://vuthis.com",
+          "type": "Text",
+          "label": {
+            "en": [
+              "V U This browser display tool"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Connect and begin | Countdown, Count-Up and Presentation Timer on TV"
+        ]
+      },
+      "width": 850,
+      "height": 1100,
+      "items": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/painting/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv-page-1.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 850,
+                "height": 1100
+              },
+              "target": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/notes/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/note/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Open vuthis.com on the TV or projector</h3><p>Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.</p><p>The screen is ready for a controller.</p><p><a href=\"https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-1\">Follow this step in Countdown, Count-Up and Presentation Timer on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/canvas/1"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/note/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Connect your phone, tablet or laptop</h3><p>Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.</p><p>The content controls are on your device.</p><p><a href=\"https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-2\">Follow this step in Countdown, Count-Up and Presentation Timer on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/canvas/1"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/note/3",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Choose Timer and a mode</h3><p>Choose Down for a set duration, Up for elapsed time or To a time for a fixed clock-time target.</p><p>The timer matches the activity.</p><p><a href=\"https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-3\">Follow this step in Countdown, Count-Up and Presentation Timer on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-1",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Countdown, Count-Up and Presentation Timer on TV - interactive steps"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Use the controls and check the result | Countdown, Count-Up and Presentation Timer on TV"
+        ]
+      },
+      "width": 850,
+      "height": 1100,
+      "items": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/painting/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv-page-2.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 850,
+                "height": 1100
+              },
+              "target": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/notes/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/note/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Set the duration or target and label</h3><p>Enter the duration or finishing time. Add a label such as Break, Questions, Presentation time or Group work. Choose readable colours.</p><p>The room knows what the time refers to.</p><p><a href=\"https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-4\">Follow this step in Countdown, Count-Up and Presentation Timer on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/canvas/2"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/note/5",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Choose Show now and run the timer</h3><p>Show the timer on the shared display. The audience sees the large timer while the controller keeps its buttons.</p><p>The room can follow the time.</p><p><a href=\"https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-5\">Follow this step in Countdown, Count-Up and Presentation Timer on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/canvas/2"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/note/6",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Pause, resume or restart the appropriate mode</h3><p>Down and Up support Pause, Resume and Restart. To a time stays tied to the fixed target. At the end of a countdown, the timer and background colours swap.</p><p>The timer follows the event rather than distracting from it.</p><p><a href=\"https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-6\">Follow this step in Countdown, Count-Up and Presentation Timer on TV</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.html#step-4",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Countdown, Count-Up and Presentation Timer on TV - interactive steps"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv-page-1.png",
+      "type": "Image",
+      "format": "image/png",
+      "width": 850,
+      "height": 1100
+    }
+  ]
+}

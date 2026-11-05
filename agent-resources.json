@@ -12,8 +12,8 @@
       "name": "llms.txt",
       "url": "https://vuthis.github.io/llms.txt",
       "media_type": "text/plain",
-      "bytes": 2708,
-      "sha256": "661ca69cb1ca63ac5b79180d4d812abc061a2748f72c25b4df669bfef31783c1"
+      "bytes": 5134,
+      "sha256": "0392d24651152261d0e0851ff6557040ab59853dc487ddc6044b6759865b5391"
     },
     {
       "name": "agent-reference.md",
@@ -82,8 +82,8 @@
       "name": "llms-full.txt",
       "url": "https://vuthis.github.io/llms-full.txt",
       "media_type": "text/plain",
-      "bytes": 33635,
-      "sha256": "c1f1c9236e986f1892bba5d1701eb10669112f09a2a48b37548b63e042b2278b"
+      "bytes": 55056,
+      "sha256": "278ea220ad95ea4c039273e592b753e8dcec0902cfc2b818767bd2026eace4c6"
     },
     {
       "name": "agent-task-schema.json",
@@ -91,11 +91,214 @@
       "media_type": "application/json",
       "bytes": 1740,
       "sha256": "65a45176a061fd56b70f50448d1a1b90e7128a3364472e083119e2b0e4ccb198"
+    },
+    {
+      "name": "walkthrough-catalog.json",
+      "url": "https://vuthis.github.io/walkthrough-catalog.json",
+      "media_type": "application/json",
+      "bytes": 55749,
+      "sha256": "82f12fd7b86ccc94e5800384f26db960cb75ed179ce33e5981f23f786050bb16"
+    },
+    {
+      "name": "walkthrough-collection.iiif.json",
+      "url": "https://vuthis.github.io/walkthrough-collection.iiif.json",
+      "media_type": "application/ld+json",
+      "bytes": 13837,
+      "sha256": "0ca593ed89d579eff91134c0f266274ff4769ed78020943a1c9ebd7b5c76648c"
+    },
+    {
+      "name": "walkthrough-feed.xml",
+      "url": "https://vuthis.github.io/walkthrough-feed.xml",
+      "media_type": "application/xml",
+      "bytes": 6899,
+      "sha256": "27107a2dc21fcd0122c04bd476871268e79bc5ca267b14e2ce1fc23b0bb4ecd7"
+    },
+    {
+      "name": "walkthroughs.md",
+      "url": "https://vuthis.github.io/walkthroughs.md",
+      "media_type": "text/markdown",
+      "bytes": 21417,
+      "sha256": "de2d664bfd4a74da09b4e061d2d4d4e4a46cad896c8a4e8a75a33e907b41569f"
+    },
+    {
+      "name": "walkthrough-connect-phone-laptop-to-tv.iiif.json",
+      "url": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json",
+      "media_type": "application/ld+json",
+      "bytes": 12810,
+      "sha256": "05a0c6111391d090e45f6972450c3e3f13957f100bdd09ec850e83a73ceec252"
+    },
+    {
+      "name": "walkthrough-pdf-on-tv-projector.iiif.json",
+      "url": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.iiif.json",
+      "media_type": "application/ld+json",
+      "bytes": 12425,
+      "sha256": "96c79c7660a0db7a3c313b1dac46c34c48318f9f72f438ef9b6297597e0ccbbb"
+    },
+    {
+      "name": "walkthrough-powerpoint-slides-on-tv.iiif.json",
+      "url": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.iiif.json",
+      "media_type": "application/ld+json",
+      "bytes": 12519,
+      "sha256": "44b0a88c6cdf27a9bfaba6c2da5f033899ac3d2d8928cd382b42780dec8b2102"
+    },
+    {
+      "name": "walkthrough-photos-slideshow-on-tv.iiif.json",
+      "url": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.iiif.json",
+      "media_type": "application/ld+json",
+      "bytes": 12426,
+      "sha256": "8af483548e322fd1a85080727eb01a7d47bfa246209b002dda9e65a4e8b51683"
+    },
+    {
+      "name": "walkthrough-large-text-on-tv.iiif.json",
+      "url": "https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json",
+      "media_type": "application/ld+json",
+      "bytes": 12089,
+      "sha256": "aeb7f7dbcbef0820c5362ca17f3ca9feb9f0a238e6876e0b24d57c686bee9631"
+    },
+    {
+      "name": "walkthrough-announcements-notice-board.iiif.json",
+      "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json",
+      "media_type": "application/ld+json",
+      "bytes": 12723,
+      "sha256": "8edee29a1beaf125601a7cfdb60e9572251e8dac58a14cf347e4340f3a8666f6"
+    },
+    {
+      "name": "walkthrough-clock-world-time-on-tv.iiif.json",
+      "url": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json",
+      "media_type": "application/ld+json",
+      "bytes": 12209,
+      "sha256": "7d869e0ad559753191de5c5424655b0193f2cde326a6c05a16cf6a57f4b41057"
+    },
+    {
+      "name": "walkthrough-presentation-timer-on-tv.iiif.json",
+      "url": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json",
+      "media_type": "application/ld+json",
+      "bytes": 12434,
+      "sha256": "19bc8da1f00b66c2bd6c49369ebfa538be89084e1e93b2c5786041ab6418e731"
+    },
+    {
+      "name": "walkthrough-now-serving-tally-counter.iiif.json",
+      "url": "https://vuthis.github.io/walkthrough-now-serving-tally-counter.iiif.json",
+      "media_type": "application/ld+json",
+      "bytes": 12470,
+      "sha256": "b41a1cb634a6207b7a3e7d4cc34c44427a97b619852a1f1f2c932440a2d69206"
+    },
+    {
+      "name": "walkthrough-website-qr-code-on-tv.iiif.json",
+      "url": "https://vuthis.github.io/walkthrough-website-qr-code-on-tv.iiif.json",
+      "media_type": "application/ld+json",
+      "bytes": 12502,
+      "sha256": "f2135391a85f28263e0946d63573902ca9569171946202fe95deb3f9e5f28860"
+    },
+    {
+      "name": "walkthrough-guest-wifi-qr-on-tv.iiif.json",
+      "url": "https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.iiif.json",
+      "media_type": "application/ld+json",
+      "bytes": 12345,
+      "sha256": "9189a4049e472c03f16fb89aa2a1f514462faebc3fba7b1d46e4736871222b6c"
+    },
+    {
+      "name": "walkthrough-digital-signage-playlist.iiif.json",
+      "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json",
+      "media_type": "application/ld+json",
+      "bytes": 12845,
+      "sha256": "f1d34c4ea972126cb495581ba118a35447bba5fe551f5ecf3d5424bab6d66190"
+    },
+    {
+      "name": "walkthrough-connect-phone-laptop-to-tv.pdf",
+      "url": "https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.pdf",
+      "media_type": "application/pdf",
+      "bytes": 78295,
+      "sha256": "bb1c68721a956a278fa747dca3af74df96ca75174767a89921ea5aa7cf6c269e"
+    },
+    {
+      "name": "walkthrough-pdf-on-tv-projector.pdf",
+      "url": "https://vuthis.github.io/walkthrough-pdf-on-tv-projector.pdf",
+      "media_type": "application/pdf",
+      "bytes": 78283,
+      "sha256": "e4a759adec0f1703436182ecd84eb1b5c03f940e3efe1bd81498de93fa2680a9"
+    },
+    {
+      "name": "walkthrough-powerpoint-slides-on-tv.pdf",
+      "url": "https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.pdf",
+      "media_type": "application/pdf",
+      "bytes": 78290,
+      "sha256": "b688d4c82c33f528aaaad355742d3e9d489191be4fbb93d33b4da2bda0d25105"
+    },
+    {
+      "name": "walkthrough-photos-slideshow-on-tv.pdf",
+      "url": "https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.pdf",
+      "media_type": "application/pdf",
+      "bytes": 151061,
+      "sha256": "1786d262c88cd01bf37dfdea8eed62caa151c9936b5204596b1566d72df266cf"
+    },
+    {
+      "name": "walkthrough-large-text-on-tv.pdf",
+      "url": "https://vuthis.github.io/walkthrough-large-text-on-tv.pdf",
+      "media_type": "application/pdf",
+      "bytes": 90713,
+      "sha256": "57a8dc9b70e0a4ad0fd602cd70ba54ea1b70f807b329062c8ebd2655c78c5e52"
+    },
+    {
+      "name": "walkthrough-announcements-notice-board.pdf",
+      "url": "https://vuthis.github.io/walkthrough-announcements-notice-board.pdf",
+      "media_type": "application/pdf",
+      "bytes": 99992,
+      "sha256": "e24a9944f4473ec9c99c8a71d533f6cc939918da50a797d474dcd7cef7ab7b7f"
+    },
+    {
+      "name": "walkthrough-clock-world-time-on-tv.pdf",
+      "url": "https://vuthis.github.io/walkthrough-clock-world-time-on-tv.pdf",
+      "media_type": "application/pdf",
+      "bytes": 93056,
+      "sha256": "4b12f366681aca02d06236144d2c8df8a1c3a5969a5ec5c19bef3ff145c23ca0"
+    },
+    {
+      "name": "walkthrough-presentation-timer-on-tv.pdf",
+      "url": "https://vuthis.github.io/walkthrough-presentation-timer-on-tv.pdf",
+      "media_type": "application/pdf",
+      "bytes": 76757,
+      "sha256": "95c87e8d14e3527c12b767ca622f62aded9fa0690c437fa7b761c6991f8cb5ad"
+    },
+    {
+      "name": "walkthrough-now-serving-tally-counter.pdf",
+      "url": "https://vuthis.github.io/walkthrough-now-serving-tally-counter.pdf",
+      "media_type": "application/pdf",
+      "bytes": 78508,
+      "sha256": "459ef2a1ac32a082ac266696a379e6b27bd893797f83e9c17c34971d665a01b2"
+    },
+    {
+      "name": "walkthrough-website-qr-code-on-tv.pdf",
+      "url": "https://vuthis.github.io/walkthrough-website-qr-code-on-tv.pdf",
+      "media_type": "application/pdf",
+      "bytes": 94481,
+      "sha256": "b1f85ece123fb555b90cf0aa2a0651770c50d1dcb8d752d97bb4c74288d9befa"
+    },
+    {
+      "name": "walkthrough-guest-wifi-qr-on-tv.pdf",
+      "url": "https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.pdf",
+      "media_type": "application/pdf",
+      "bytes": 94478,
+      "sha256": "a629370239db4b93d0851efd3aca7be0e3a372748b585d682299345a912b4c75"
+    },
+    {
+      "name": "walkthrough-digital-signage-playlist.pdf",
+      "url": "https://vuthis.github.io/walkthrough-digital-signage-playlist.pdf",
+      "media_type": "application/pdf",
+      "bytes": 155380,
+      "sha256": "411af744bb3f3cd526ee583e24100f70db72a7776bac3858167754032e1d1ea0"
     }
   ],
   "html_reference": {
     "url": "https://vuthis.github.io/agent-reference.html",
     "media_type": "text/html"
   },
-  "usage": "Read-only public documentation with source links. No private sessions, application source or app-control credentials."
+  "usage": "Read-only public documentation with source links. No private sessions, application source or app-control credentials.",
+  "interactive_walkthroughs": {
+    "url": "https://vuthis.github.io/interactive-walkthroughs.html",
+    "count": 12,
+    "steps": 72,
+    "catalogue": "https://vuthis.github.io/walkthrough-catalog.json",
+    "iiif_collection": "https://vuthis.github.io/walkthrough-collection.iiif.json"
+  }
 }

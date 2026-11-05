@@ -3,8 +3,8 @@ layout: null
 sitemap: false
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-{% for item in site.pages %}{% if item.sitemap != false %}{% assign ext = item.url | split: '.' | last %}{% if ext == 'html' or item.url == '/' %}<url><loc>{{ item.url | absolute_url | xml_escape }}</loc>{% if item.last_modified_at %}<lastmod>{{ item.last_modified_at | date: '%Y-%m-%d' }}</lastmod>{% endif %}{% if item.video_page %}<video:video><video:thumbnail_loc>{{ item.video_thumbnail | xml_escape }}</video:thumbnail_loc><video:title>{{ item.video_title | xml_escape }}</video:title><video:description>{{ item.video_description | xml_escape }}</video:description><video:player_loc>{{ item.video_player | xml_escape }}</video:player_loc><video:publication_date>{{ item.video_upload_date | xml_escape }}</video:publication_date></video:video>{% endif %}</url>{% endif %}{% endif %}{% endfor %}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+{% for item in site.pages %}{% if item.sitemap != false %}{% assign ext = item.url | split: '.' | last %}{% if ext == 'html' or item.url == '/' %}<url><loc>{{ item.url | absolute_url | xml_escape }}</loc>{% if item.last_modified_at %}<lastmod>{{ item.last_modified_at | date: '%Y-%m-%d' }}</lastmod>{% endif %}{% if item.video_page %}<video:video><video:thumbnail_loc>{{ item.video_thumbnail | xml_escape }}</video:thumbnail_loc><video:title>{{ item.video_title | xml_escape }}</video:title><video:description>{{ item.video_description | xml_escape }}</video:description><video:player_loc>{{ item.video_player | xml_escape }}</video:player_loc><video:publication_date>{{ item.video_upload_date | xml_escape }}</video:publication_date></video:video>{% endif %}{% if item.walkthrough_page and item.walkthrough_image %}<image:image><image:loc>{{ item.walkthrough_image | absolute_url | xml_escape }}</image:loc><image:caption>{{ item.description | xml_escape }}</image:caption><image:title>{{ item.title | xml_escape }}</image:title></image:image>{% endif %}</url>{% endif %}{% endif %}{% endfor %}
 {% for file in site.static_files %}{% assign ext = file.path | split: '.' | last | downcase %}{% if ext == 'pdf' or ext == 'pptx' %}<url><loc>{{ file.path | absolute_url | xml_escape }}</loc></url>{% endif %}{% endfor %}
 <url><loc>https://vuthis.github.io/vuthis-screen-guides/</loc></url>
 <url><loc>https://vuthis.github.io/vuthis-screen-guides/pdf-on-tv-or-projector.html</loc></url>
@@ -26,4 +26,20 @@ sitemap: false
 <url><loc>https://vuthis.github.io/agent-feed.json</loc><lastmod>2026-11-05</lastmod></url>
 <url><loc>https://vuthis.github.io/llms-full.txt</loc><lastmod>2026-11-05</lastmod></url>
 <url><loc>https://vuthis.github.io/agent-task-schema.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-catalog.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-collection.iiif.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-feed.xml</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthroughs.md</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-connect-phone-laptop-to-tv.iiif.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-pdf-on-tv-projector.iiif.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-powerpoint-slides-on-tv.iiif.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-photos-slideshow-on-tv.iiif.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-large-text-on-tv.iiif.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-clock-world-time-on-tv.iiif.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-presentation-timer-on-tv.iiif.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-now-serving-tally-counter.iiif.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-website-qr-code-on-tv.iiif.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-guest-wifi-qr-on-tv.iiif.json</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://vuthis.github.io/walkthrough-digital-signage-playlist.iiif.json</loc><lastmod>2026-11-05</lastmod></url>
 </urlset>

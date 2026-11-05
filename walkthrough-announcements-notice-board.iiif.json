@@ -1,0 +1,339 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Turn a TV into a Digital Notice Board: Interactive Walkthrough"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Display announcements on TV from your phone. Build a notice with title, subtitle and footer, preview the hierarchy and update a reception or event screen."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Outcome"
+        ]
+      },
+      "value": {
+        "en": [
+          "A structured announcement that tells everyone what changed and what to do next."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Main product"
+        ]
+      },
+      "value": {
+        "en": [
+          "<a href=\"https://vuthis.com\">Open V U This on the display</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Topic"
+        ]
+      },
+      "value": {
+        "en": [
+          "digital notice board on TV",
+          "announcements on screen",
+          "reception TV message"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Publisher"
+        ]
+      },
+      "value": {
+        "en": [
+          "V U This team"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.html",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Turn a TV into a Digital Notice Board: Interactive Walkthrough"
+        ]
+      },
+      "format": "text/html"
+    },
+    {
+      "id": "https://vuthis.com",
+      "type": "Text",
+      "label": {
+        "en": [
+          "V U This: open on the TV or projector display"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-catalog.json",
+      "type": "Dataset",
+      "format": "application/json",
+      "label": {
+        "en": [
+          "TV and projector workflow steps and related guides"
+        ]
+      }
+    }
+  ],
+  "rendering": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.pdf",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Turn a TV into a Digital Notice Board: Interactive Walkthrough - printable PDF"
+        ]
+      },
+      "format": "application/pdf"
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Published by"
+      ]
+    },
+    "value": {
+      "en": [
+        "V U This team. Product and setup: <a href=\"https://vuthis.com\">vuthis.com</a>."
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://vuthis.com",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "V U This"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://vuthis.com",
+          "type": "Text",
+          "label": {
+            "en": [
+              "V U This browser display tool"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Connect and begin | Turn a TV into a Digital Notice Board: Interactive Walkthrough"
+        ]
+      },
+      "width": 850,
+      "height": 1100,
+      "items": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/painting/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vuthis.github.io/walkthrough-announcements-notice-board-page-1.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 850,
+                "height": 1100
+              },
+              "target": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/notes/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/note/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Open vuthis.com on the TV or projector</h3><p>Open vuthis.com in the display browser. For a projector, use its browser or the computer already connected to it. Keep the connection code on screen.</p><p>The screen is ready for a controller.</p><p><a href=\"https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-1\">Follow this step in Turn a TV into a Digital Notice Board: Interactive Walkthrough</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/canvas/1"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/note/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Connect your phone, tablet or laptop</h3><p>Scan the screen QR code with your phone. On a laptop or tablet, open vuthis.com/r and enter the screen code. Both devices need internet; they can use different networks.</p><p>The content controls are on your device.</p><p><a href=\"https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-2\">Follow this step in Turn a TV into a Digital Notice Board: Interactive Walkthrough</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/canvas/1"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/note/3",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Choose Announcement and write the title</h3><p>Choose Announcement. Give the notice a short title such as Session change, Welcome or Today at reception.</p><p>The main point is immediately clear.</p><p><a href=\"https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-3\">Follow this step in Turn a TV into a Digital Notice Board: Interactive Walkthrough</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-1",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Turn a TV into a Digital Notice Board: Interactive Walkthrough - interactive steps"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    },
+    {
+      "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Use the controls and check the result | Turn a TV into a Digital Notice Board: Interactive Walkthrough"
+        ]
+      },
+      "width": 850,
+      "height": 1100,
+      "items": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/page/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/painting/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vuthis.github.io/walkthrough-announcements-notice-board-page-2.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 850,
+                "height": 1100
+              },
+              "target": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/notes/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/note/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Add the subtitle and footer</h3><p>Use the subtitle for the useful detail and the footer for a time, room or next action. For example: Workshop moved to Hall B; Follow signs upstairs.</p><p>The notice has a readable information hierarchy.</p><p><a href=\"https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-4\">Follow this step in Turn a TV into a Digital Notice Board: Interactive Walkthrough</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/canvas/2"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/note/5",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Choose colours and check the layout</h3><p>Choose readable colours. If your current product access includes an image, add one when it helps explain the notice. Preview how the words fit.</p><p>The important detail stands out.</p><p><a href=\"https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-5\">Follow this step in Turn a TV into a Digital Notice Board: Interactive Walkthrough</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/canvas/2"
+            },
+            {
+              "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/note/6",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h3>Show the notice and keep it current</h3><p>Choose Show now. Update the announcement from the controller when plans change, then clear or replace it when it no longer applies.</p><p>Visitors see the current announcement.</p><p><a href=\"https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-6\">Follow this step in Turn a TV into a Digital Notice Board: Interactive Walkthrough</a></p>"
+              },
+              "target": "https://vuthis.github.io/walkthrough-announcements-notice-board.iiif.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://vuthis.github.io/walkthrough-announcements-notice-board.html#step-4",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Turn a TV into a Digital Notice Board: Interactive Walkthrough - interactive steps"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://vuthis.github.io/walkthrough-announcements-notice-board-page-1.png",
+      "type": "Image",
+      "format": "image/png",
+      "width": 850,
+      "height": 1100
+    }
+  ]
+}
