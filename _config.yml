@@ -3,8 +3,6 @@ url: https://vuthis.github.io
 baseurl: ""
 lang: en
 timezone: Europe/London
-plugins:
-  - jekyll-sitemap
 exclude:
   - README.md
   - PUBLISHING.md

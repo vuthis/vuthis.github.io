@@ -4,4 +4,4 @@ sitemap: false
 ---
 User-agent: *
 Allow: /
-Sitemap: https://vuthis.github.io/sitemap-index.xml
+Sitemap: https://vuthis.github.io/sitemap.xml
